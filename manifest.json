@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "releaseDate": "2026-10-01",
+  "changeLog": "إضافة 30 سؤالاً وزارياً جديداً في الحاسوب والإنكليزي",
+  "fileVersions": {
+    "computer": 2,
+    "english": 2,
+    "arabic": 1,
+    "reading_passages": 1
+  },
+  "files": {
+    "computer": "https://raw.githubusercontent.com/اسم_حسابك/whatane-bank/main/computer_questions.json",
+    "english": "https://raw.githubusercontent.com/اسم_حسابك/whatane-bank/main/english_questions.json",
+    "arabic": "https://raw.githubusercontent.com/اسم_حسابك/whatane-bank/main/arabic_questions.json",
+    "reading_passages": "https://raw.githubusercontent.com/اسم_حسابك/whatane-bank/main/reading_passages.json"
+  }
+}
