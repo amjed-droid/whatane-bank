@@ -2,6 +2,13 @@
   "version": 2,
   "releaseDate": "2026-10-01",
   "changeLog": "تحديث وإضافة أسئلة وزارية جديدة في الحاسوب والإنكليزي والعربي",
+  
+  "appVersion": "1.0.1",
+  "appBuildNumber": 2,
+  "appDownloadUrl": "https://github.com/amjed-droid/whatane-bank",
+  "appReleaseNotes": "ميزة تجريبية: تم تحسين استجابة الأسئلة وتطوير نظام الإشعارات الذكي",
+  "isForceAppUpdate": false,
+
   "fileVersions": {
     "computer": 2,
     "english": 2,
