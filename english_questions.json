@@ -1,0 +1,3962 @@
+[
+  {
+    "id": 1,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "The cost of living ___ every year; things are more expensive.",
+    "options": [
+      "is rise",
+      "rise",
+      "are rising",
+      "is rising"
+    ],
+    "correctAnswer": 3,
+    "correctIndex": 3,
+    "explanation": "نستخدم زمن المضارع المستمر (is rising) للتعبير عن تغير أو تطور مستمر تدريجياً، والفاعل (The cost of living) مفرد فيأخذ is + verb-ing.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 2,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Eishan ___ a book yesterday.",
+    "options": [
+      "had read",
+      "reading",
+      "read",
+      "readed"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "جملة في زمن الماضي البسيط لوجود دلالة الماضي (yesterday). الفعل (read) شاذ ماضيه يُكتب بنفس الهجاء (read) ويُلفظ /red/ ولا يُضاف له ed إطلاقاً.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 3,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "The North Pole ___ a latitude of 90 degrees north.",
+    "options": [
+      "it has",
+      "has",
+      "which is having",
+      "are having"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "الجملة بحاجة إلى فعل رئيسي فقط ليكتمل معناها (The North Pole has...). لا نستخدم (it has) لأن الفاعل مذكور بالفعل، ولا نستخدم الاستمرار مع أفعال الملكية.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 4,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "If I had had enough money, I ___ that radio.",
+    "options": [
+      "would buy",
+      "buy",
+      "bought",
+      "would have bought"
+    ],
+    "correctAnswer": 3,
+    "correctIndex": 3,
+    "explanation": "هذه الحالة الشرطية الثالثة (Third Conditional): قاعدة (If + Past Perfect [had had] ---> would have + P.P [would have bought]) للتعبير عن ندم أو افتراض في الماضي.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 5,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Change the sentence to indirect speech: She said, \"I am reading a book.\"",
+    "options": [
+      "She said that she reads a book.",
+      "She said that she will read a book.",
+      "She said that she was reading a book.",
+      "She said that she has read a book."
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "في الكلام المنقول (Reported Speech)، يتحول المضارع المستمر (am reading) إلى الماضي المستمر (was reading)، ويتحول ضمير المتكلم (I) إلى (she).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 6,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "There aren’t ___ buses in the evening.",
+    "options": [
+      "any",
+      "some",
+      "a",
+      "no"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "نستخدم (any) في الجمل المنفية والاستفهامية مع الأسماء المعدودة بالجمع (aren't ... any buses)، بينما (some) تُستخدم في الجمل المثبتة.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 7,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "What ___ at 11:30 yesterday?",
+    "options": [
+      "was you doing",
+      "were you doing",
+      "were you do",
+      "you were doing"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "سؤال في زمن الماضي المستمر لوجود وقت محدد في الماضي (at 11:30 yesterday). تركيبة السؤال: (Wh-word + was/were + subject + v-ing) والفاعل (you) يأخذ (were).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 8,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "I'm so sorry, but I can do ___ in this situation.",
+    "options": [
+      "anything",
+      "some",
+      "nothing",
+      "thing"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "المعنى يفيد النفي والعجز عن المساعدة: (I can do nothing) أي 'لا يمكنني فعل أي شيء'، لأن الجملة مثبتة لفظاً (can) فنحتاج كلمة تفيد النفي (nothing).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 9,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Is your English getting better? — Yes, it’s ___.",
+    "options": [
+      "getting",
+      "was getting",
+      "got",
+      "get"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "السؤال في المضارع المستمر (Is your English getting...)، والجواب يماثله: (Yes, it's getting [better]).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 10,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "I like your hair. Where ___?",
+    "options": [
+      "did you cut it",
+      "do you have cut",
+      "does cut it",
+      "do you have it cut"
+    ],
+    "correctAnswer": 3,
+    "correctIndex": 3,
+    "explanation": "صيغة السببية (Causative Form): عندما يقوم شخص آخر بقص شعرك نستخدم: (have/get + object + V3 [P.P]). السؤال: (Where do you have it cut?).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 11,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "I want to lose weight, so this week I ___ dinner.",
+    "options": [
+      "am not eating",
+      "am eating",
+      "never eating",
+      "am not eat"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "نستخدم المضارع المستمر للتعبير عن خطة أو وضع مؤقت هذا الأسبوع (this week I am not eating dinner).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 12,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "The guy ___ my brother.",
+    "options": [
+      "that saw you",
+      "who saw",
+      "you saw is",
+      "that saw"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "الجملة بحاجة إلى عبارة وصل مع فعل رئيسي للجملة: (The guy [whom] you saw is my brother). حذف ضمير الوصل مسموح هنا لأن (you saw) جملة صلة متبوعة بفعل الخبر (is).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 13,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "“Jack is in hospital.” — “Really? I didn’t know. I ___ and visit him.”",
+    "options": [
+      "will go",
+      "will",
+      "going",
+      "am go"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "قرار سريع وليد اللحظة (Spontaneous Decision): عندما يسمع المتحدث بالخبر في التو واللحظة يستخدم (will + infinitive) وليس (going to).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 14,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "I can’t walk anymore; I’m ___ tired.",
+    "options": [
+      "such",
+      "so",
+      "so that",
+      "too much"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "نستخدم (so) متبوعة بالصفة مباشرة (so tired)، بينما (such) تأتي متبوعة باسم موصوف (such a tired person).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 15,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "She sings beautifully. What is the grammatical function of 'beautifully'?",
+    "options": [
+      "Adverb of Manner",
+      "Adverb of Frequency",
+      "Adverb of Time",
+      "Adverb of Degree"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الكلمة (beautifully) هي ظرف حال (Adverb of Manner) لأنها تصف كيفية أداء الفعل (كيف تغني؟ تغني بجمال).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 16,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "We have a meeting on Monday. What does the preposition 'on' indicate?",
+    "options": [
+      "Expressing direction",
+      "Indicating a specific place",
+      "Indicating time",
+      "Expressing location"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "حرف الجر (on) يُستخدم مع أيام الأسبوع والمواعيد المحددة للدلالة على الوقت والزمان (Indicating time).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 17,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "This book belongs to John. What does 'belongs to' express?",
+    "options": [
+      "Indicating possession",
+      "Indicating location",
+      "Indicating source of origin",
+      "Describing relationships"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الفعل (belongs to) يفيد الملكية والانتماء (Indicating possession) أي أن الكتاب ملك لجون.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 18,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "She will get a scholarship if she ___ for one.",
+    "options": [
+      "doesn’t apply",
+      "apply",
+      "wouldn’t apply",
+      "applies"
+    ],
+    "correctAnswer": 3,
+    "correctIndex": 3,
+    "explanation": "الحالة الشرطية الأولى (First Conditional): جملة (if) تكون في المضارع البسيط (she applies) وجواب الشرط (will + infinitive).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 19,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Many novels of Kurt Vonnegut ___ a remarkable skepticism about technological advance.",
+    "options": [
+      "will have displayed",
+      "had displayed",
+      "display",
+      "have displayed"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "عند التحدث عن حقائق أدبية أو ما تحتويه الكتب والروايات نستخدم المضارع البسيط كحقيقة دائمة (novels display...).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 20,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "The book belongs to Mary. It’s ___.",
+    "options": [
+      "Mary’s",
+      "Marys’",
+      "maryess",
+      "Maryes"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "صيغة التملك للمفرد تضاف إليها الفاصلة العليا ثم حرف s الملكية: (Mary's).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 21,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Sorry, I can’t talk right now. I ___.",
+    "options": [
+      "am driving",
+      "driving",
+      "drive",
+      "drives"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "لوجود دلالة الحاضر المستمر (right now) نستخدم المضارع المستمر: (I am driving).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 22,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Harry ___ his father’s car when the accident happened.",
+    "options": [
+      "was driving",
+      "drove",
+      "had driven",
+      "has been driving"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "حدث كان مستمراً في الماضي (Past Continuous: was driving) عندما قطعه حدث ماضٍ بسيط آخر (when the accident happened).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 23,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "This is a very quiet village. There is ___ to do here.",
+    "options": [
+      "little",
+      "few",
+      "many",
+      "any"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "نستخدم (little) مع الأشياء غير المعدودة لتعني 'قليل جداً ويكاد ينعدم' (little to do = لا يوجد شيء تقريباً لفعله).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 24,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Most of the tourists arrived ___ bus.",
+    "options": [
+      "with",
+      "from",
+      "by",
+      "in"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "وسائل النقل العامة بدون أداة تعريف تسبق بحرف الجر (by): (by bus, by car, by plane, by train).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 25,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Children had been ___ false beliefs from their childhood.",
+    "options": [
+      "teach",
+      "teaches",
+      "taught",
+      "is taught"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "صيغة المبني للمجهول في زمن الماضي التام: (had been + past participle [taught]).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 26,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "He ___ to pass the exam, but he couldn't manage it.",
+    "options": [
+      "tried hard",
+      "hardly tried",
+      "tried hardly",
+      "hard tried"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "كلمة (hard) ظرف يأتي بعد الفعل ويعني 'بجد واجتهاد' (tried hard)، بينما (hardly) تعني 'بالكاد / قلما' وتغير المعنى تماماً.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 27,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "They ___ in the park when it started to rain heavily.",
+    "options": [
+      "walked",
+      "were walking",
+      "were walk",
+      "are walking"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "قاعدة (when): حدث كان مستمراً في الماضي (were walking) قاطعه حدث مفاجئ في الماضي البسيط (started to rain).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 28,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "How long ___ married? — Since 1992.",
+    "options": [
+      "has you been",
+      "have you been",
+      "you are",
+      "did you be"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "للسؤال عن مدة حدث بدأ في الماضي وما زال مستمراً مع (since/for)، نستخدم المضارع التام (Present Perfect): (How long have you been married?).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 29,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "She is allergic ___ nuts.",
+    "options": [
+      "of",
+      "from",
+      "to",
+      "on"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "الصفة (allergic) تأخذ حرف الجر (to) دائماً: (allergic to peanuts/cats/dust).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 30,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Tamara is still in her room. She ___ TV all afternoon.",
+    "options": [
+      "watch",
+      "watched",
+      "had watched",
+      "has been watching"
+    ],
+    "correctAnswer": 3,
+    "correctIndex": 3,
+    "explanation": "لوجود دلالة الاستمرار منذ فترة حتى الآن (still ... all afternoon)، نستخدم المضارع التام المستمر (has been watching).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 31,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Could you please ___ me that book for a couple of days?",
+    "options": [
+      "lend",
+      "owe",
+      "borrow",
+      "rent"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الفرق بين (lend) و (borrow): نستخدم (lend) بمعنى 'يُقرض / يُعير لشخص آخر' (lend me = أعِرْني)، بينما (borrow) تعني 'يستعير هو'.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 32,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "You should not ___ the speed limit; it is dangerous.",
+    "options": [
+      "exceeded",
+      "exceeding",
+      "exceed",
+      "had exceeded"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "الأفعال الناقصة (Modal verbs: should, must, can, could...) يتبعها فعل مجرد في المصدر بدون أي إضافات (exceed).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 33,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "The official championship website ___ a record number of hits last week.",
+    "options": [
+      "scored",
+      "score",
+      "scoring",
+      "is scoring"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "لوجود دلالة الماضي الصريحة (last week)، نستخدم الفعل في صيغة الماضي البسيط (scored).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 34,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "I was wondering if you ___ tell me when the flight arrives.",
+    "options": [
+      "can",
+      "could",
+      "will",
+      "may"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "في صيغ الطلب المؤدب الرسمي (Polite Inquiries)، التركيب القياسي هو: (I was wondering if you could...).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 35,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Anna ___ and left the room.",
+    "options": [
+      "said goodbye to me",
+      "said me goodbye",
+      "told me goodbye",
+      "say goodbye"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الفعل (say) لا يأخذ مفعولاً به مباشراً للأشخاص بدون حرف الجر (to)، لذا فالصيغة الصحيحة هي (said goodbye to me).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 36,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Was Tom there when you arrived? — Yes, but he ___ soon after.",
+    "options": [
+      "left",
+      "had left",
+      "has left",
+      "is leaving"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "سلسلة أحداث متتالية في الماضي البسيط: وصل هو أولاً، ثم غادر توم بعد ذلك بقليل (he left soon after).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 37,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "I want to stay healthy, so I ___ every morning.",
+    "options": [
+      "exercise",
+      "exercised",
+      "will exercising",
+      "exercising"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "عادة يومية منتظمة (every morning)، نستخدم زمن المضارع البسيط (Present Simple: I exercise).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 38,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Neither the teacher nor the students ___ present yesterday.",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "are"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "قاعدة (Neither ... nor): الفعل يتبع الفاعل الأقرب إليه. الأقرب للفعل هو (the students) وهو جمع فيأخذ (were) في الماضي.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 39,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "By the time the ambulance arrived, the patient ___.",
+    "options": [
+      "had died",
+      "has died",
+      "died",
+      "was dying"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "قاعدة (By the time + Past Simple ---> Past Perfect): الحدث الأقدم في الماضي يأخذ الماضي التام (had died).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 40,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "She speaks English ___ than her sister.",
+    "options": [
+      "more fluently",
+      "fluently",
+      "most fluently",
+      "fluentlier"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المقارنة للظروف المنتهية بـ ly تصاغ بوضع (more) قبل الظرف: (more fluently than).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 41,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Kristin: 'Happy new year to you and your family!'\nVijaya: 'Thank you. Do come in.'\nWhat is the function of Kristin's statement?",
+    "options": [
+      "To wish",
+      "To request",
+      "To welcome",
+      "To inform"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "عبارات التهاني والتمنيات بالمناسبات مثل (Happy new year / Best wishes) تقع تحت وظيفة التمني والتهنئة (To wish).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 42,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Keane: 'The race will start at 8 a.m., won't it?'\nClerk: 'That's right. After registration, assemble at the starting line.'\nWhat is the clerk doing?",
+    "options": [
+      "To inform",
+      "To greet",
+      "To request",
+      "To describe"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الموظف يقدم معلومات وإرشادات وتأكيداً لموعد ومكان السباق، والوظيفة هي الإخبار وتزويد المعلومات (To inform).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 43,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Lily: 'Lehman fell while climbing up the tree.'\nRose: 'I shouldn't have asked him to pluck the fruits.'\nWhat function does Rose express?",
+    "options": [
+      "To complain",
+      "To regret",
+      "To apologize",
+      "To advise"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "استخدام (shouldn't have + V3) يعبر دائماً عن الندم على فعل شيء في الماضي (To regret).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 44,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Joe: 'That remark was totally uncalled for.'\nRaymond: 'I'm sorry. I shouldn't have said it.'\nWhat is Raymond doing?",
+    "options": [
+      "To apologize",
+      "To wish",
+      "To blame",
+      "To forgive"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "قول (I'm sorry / I apologize) يعبر مباشرة عن الاعتذار الصريح (To apologize).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 45,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Rooney: 'Are we going now?'\nMother: 'Yes. Don't forget to lock your room.'\nWhat is the mother's function?",
+    "options": [
+      "To instruct",
+      "To remind",
+      "To announce",
+      "To inform"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "عبارة (Don't forget to...) تُستخدم دائماً للتذكير بأمر ما (To remind).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 46,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Kim: 'What shall we do this weekend?'\nMay: 'Why don't we go on a picnic?'\nWhat is May expressing?",
+    "options": [
+      "To welcome",
+      "To praise",
+      "To suggest",
+      "To advise"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "الصيغة (Why don't we... / Shall we... / Let's...) هي الأسلوب النموذجي لتقديم الاقتراحات (To suggest / Making a suggestion).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 47,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Owen: 'Please forgive me for being rude.'\nTeacher: 'You're forgiven.'\nWhat is the teacher doing?",
+    "options": [
+      "To regret",
+      "To protest",
+      "To forgive",
+      "To encourage"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "المعلم يقبل الاعتذار ويعفو عن الطالب (You're forgiven)، ووظيفتها التسامح والصفح (To forgive).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 48,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Charles: 'Let's join Dark Glove's gang.'\nGary: 'No, I will never join them.'\nWhat is Gary's function?",
+    "options": [
+      "To warn",
+      "To regret",
+      "To refuse",
+      "To apologize"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "قول (No, I will never...) يعبر عن الرفض القاطع لاقتراح أو عرض (To refuse / Declining).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 49,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Mother: 'I wonder why Sharon has not written for a long time.'\nBarry: 'Don't worry. I'm sure he is fine.'\nWhat is Barry trying to do?",
+    "options": [
+      "To comfort",
+      "To compliment",
+      "To inform",
+      "To remind"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "عبارة (Don't worry / Everything will be okay) تهدف إلى طمأنة وتهدئة الشخص والتخفيف من قلقه (To comfort / reassure).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 50,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Jenny: 'Should I take part in the speech contest?'\nChin: 'Of course you should! You are great.'\nWhat is Chin doing?",
+    "options": [
+      "To encourage",
+      "To remind",
+      "To appeal",
+      "To blame"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "تقديم الدعم الإيجابي والحث على المشاركة (Of course you should! You are great) يعبر عن التشجيع وبث الحماسة (To encourage).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 51,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Kerry: 'We won the championship cup!'\nJohn: 'Are you sure? Really?'\nWhat function does John express?",
+    "options": [
+      "To suggest",
+      "To doubt",
+      "To assure",
+      "To agree"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "السؤال بـ (Are you sure? / Really?) يوضح عدم التصديق والشك في صحة الخبر (To express doubt).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 52,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "David: 'I wish I had his intelligence. Then I wouldn't have to study so hard.'\nShirley: 'So do I.'\nWhat is Shirley expressing?",
+    "options": [
+      "To assure",
+      "To confirm",
+      "To agree",
+      "To hope"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "استخدام (So do I / Neither do I / I agree) هو تعبير صريح عن الموافقة في الرأي والمشاعر (To agree).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 53,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Customer: 'Excuse me, could you tell me where the station is?'\nWhat is the speaker doing?",
+    "options": [
+      "Making a request / Asking for directions",
+      "Giving an order",
+      "Making an offer",
+      "Expressing regret"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "صيغة (Could you tell me...?) هي أسلوب طلب مؤدب للاستفسار عن الاتجاهات والمعلومات (Making a polite request).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 54,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Speaker: 'Would you like me to carry that heavy bag for you?'\nWhat function is performed here?",
+    "options": [
+      "Making an offer",
+      "Asking for permission",
+      "Giving advice",
+      "Expressing gratitude"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "استخدام (Would you like me to... / Can I help you with...) يعبر عن عرض المساعدة طواعية (Making an offer).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 55,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Doctor: 'If I were you, I would quit smoking immediately.'\nWhat function does this sentence serve?",
+    "options": [
+      "Giving advice",
+      "Making a prediction",
+      "Asking for information",
+      "Refusing an offer"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "التركيب (If I were you, I would...) هو أحد أشهر أساليب تقديم النصيحة الطبية واللغوية (Giving advice).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 56,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Man: 'It doesn't make any sense for us to go home for spring vacation now.'\nWoman: 'Especially since we will be graduating in May.'\nWhat does the woman mean?",
+    "options": [
+      "She will not go home for spring vacation.",
+      "She has not taken a vacation for a long time.",
+      "She does not plan to graduate.",
+      "She wants to go home right now."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المرأة تؤيد كلام الرجل بأن الذهاب للمنزل الآن لا معنى له لأن التخرج في مايو قريب، أي أنها لن تسافر للمنزل في عطلة الربيع.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 57,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Man: 'I need a textbook for English 221.'\nWoman: 'All of the course textbooks are on the shelves in the back of the store.'\nWhat will the man probably do?",
+    "options": [
+      "Buy a textbook from the back shelves.",
+      "Come back another day.",
+      "Go to a different bookstore.",
+      "Drop his English class."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "بما أن المرأة وجهته إلى مكان وجود الكتب على الرفوف الخلفية للمتجر، فالخطوة المنطقية التالية للرجل هي التوجه للرفوف لشراء الكتاب.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 58,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Man: 'What do you think of Professor Collins?'\nWoman: 'I think he is a great person, but the class just turns me off.'\nWhat does the woman mean?",
+    "options": [
+      "She does not like the class.",
+      "She wants to turn off the lights.",
+      "She thinks the professor is boring.",
+      "She admires the lectures."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "التعبير الاصطلاحي (turns someone off) يعني 'لا يروق له / يُنفّره'، أي أنها لا تستمتع ولا تحب المحاضرة رغم احترامها لشخص الأستاذ.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 59,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Woman: 'Are you still studying? It is two o'clock in the morning!'\nMan: 'I know. I just cannot seem to get caught up.'\nWhat does the man mean?",
+    "options": [
+      "He is trying to bring his academic work up to date.",
+      "He does not know what time it is.",
+      "He should go to sleep immediately.",
+      "He is not tired at all."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المصطلح (get caught up) يعني 'يلحق بما فاته من مهام وواجبات متراكمة' (bring his work up to date).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 60,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Man: 'It's your turn to call the names on the list if you want.'\nWoman: 'I think I'll pass this time.'\nWhat is the woman going to do?",
+    "options": [
+      "Let someone else call the names.",
+      "Spend time with the man.",
+      "Make a new list of names.",
+      "Call all the names immediately."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "التعبير (I'll pass) يعني 'سأعتذر هذه المرة / أتنازل عن دوري لشخص آخر' (Let someone else do it).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 61,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Man: 'The term paper isn't due until next week.'\nWoman: 'Yes, I know, but I wanted to turn it in ahead of time.'\nWhat does the woman mean?",
+    "options": [
+      "She wants to submit her paper early.",
+      "The deadline has already passed.",
+      "Her paper is not finished yet.",
+      "She wants an extension."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المصطلح (turn in ahead of time) يعني تسليم البحث والواجب قبل الموعد النهائي المحدد (submit paper early).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 62,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Man: 'I cannot stand this statistics class!'\nWoman: 'Well, you might as well get used to it. You have to take it in order to graduate.'\nWhat does the woman say about the class?",
+    "options": [
+      "It is a mandatory requirement for graduation.",
+      "She hates the class too.",
+      "The man should drop out of college.",
+      "The professor will cancel the course."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "عبارة (You have to take it in order to graduate) تعني أن المادة إجبارية ومتطلب تخرج إلزامي (mandatory requirement).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 63,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Student: 'The exam yesterday was a piece of cake!'\nWhat does the idiom 'a piece of cake' mean?",
+    "options": [
+      "The exam was very easy.",
+      "The exam had questions about food.",
+      "The exam was extremely difficult.",
+      "The exam was sweet and delicious."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "التعبير الاصطلاحي الشهير (a piece of cake) يعني شيئاً في غاية السهولة واليسر (very easy).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 64,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Manager: 'We've been working for ten straight hours. Let's call it a day.'\nWhat does 'call it a day' mean?",
+    "options": [
+      "Stop working for the rest of the day.",
+      "Work all night until tomorrow.",
+      "Name the day on the calendar.",
+      "Take a five-minute break."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المصطلح (call it a day) يعني التوقف عن العمل وإنهاء مهام اليوم والاكتفاء بما أُنجز (stop working for today).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 65,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Friend: 'I am feeling a bit under the weather today.'\nWhat does 'under the weather' mean?",
+    "options": [
+      "Feeling slightly ill or unwell.",
+      "Enjoying the rainy weather.",
+      "Standing outside in the rain.",
+      "Very excited and energetic."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المصطلح الاصطلاحي (under the weather) يعني الشعور بوعكة صحية طفيفة أو الإعياء (feeling slightly sick/unwell).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 66,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Oil]\nOil is a vital resource in today’s world. It is used in many industries, including transportation, manufacturing and energy production. Cars, trucks and airplanes run on fuel made from oil. Oil is found deep underground and companies drill wells to bring it to the surface. Once extracted, it is transported to refineries where it is processed. However, oil is a non-renewable resource, meaning it will eventually run out, and its burning contributes to pollution and climate change.\n\nHow is oil brought to the surface according to the passage?",
+    "options": [
+      "By digging trenches",
+      "By drilling wells",
+      "By solar energy",
+      "By thermal power"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "ورد في النص صراحة: (companies drill wells to bring it to the surface)، فالجواب هو حفر الآبار (drilling wells).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 67,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Oil]\nOil is a vital resource in today’s world. It is used in many industries, including transportation, manufacturing and energy production. Cars, trucks and airplanes run on fuel made from oil. Oil is found deep underground and companies drill wells to bring it to the surface. Once extracted, it is transported to refineries where it is processed. However, oil is a non-renewable resource, meaning it will eventually run out, and its burning contributes to pollution and climate change.\n\nWhat kind of resource is oil described as in the passage?",
+    "options": [
+      "A renewable resource",
+      "A non-renewable resource",
+      "An unlimited resource",
+      "A perpetual source of energy"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "النص يذكر بوضوح: (It is a non-renewable resource, meaning it will eventually run out).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 68,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Oil]\nOil is a vital resource in today’s world. It is used in many industries, including transportation, manufacturing and energy production. Cars, trucks and airplanes run on fuel made from oil. Oil is found deep underground and companies drill wells to bring it to the surface. Once extracted, it is transported to refineries where it is processed. However, oil is a non-renewable resource, meaning it will eventually run out, and its burning contributes to pollution and climate change.\n\nWhere is crude oil processed into gasoline and other products?",
+    "options": [
+      "In power plants",
+      "In deep wells",
+      "In refineries",
+      "In manufacturing factories"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "يذكر النص: (it is transported to refineries where it is processed into various products) أي مصافي التكرير (refineries).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 69,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Oil]\nOil is a vital resource in today’s world. It is used in many industries, including transportation, manufacturing and energy production. Cars, trucks and airplanes run on fuel made from oil. Oil is found deep underground and companies drill wells to bring it to the surface. Once extracted, it is transported to refineries where it is processed. However, oil is a non-renewable resource, meaning it will eventually run out, and its burning contributes to pollution and climate change.\n\nWhy is there growing interest in renewable energy sources like wind and solar?",
+    "options": [
+      "Because oil will eventually run out and causes environmental concerns.",
+      "Because renewable energy is already cheaper than oil.",
+      "Because oil cannot be used in cars anymore.",
+      "Because factories prefer not to use fuel."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "يذكر النص أن النفط غير متجدد وسيَنفد، واحتراقه يسبب التلوث وتغير المناخ، مما جعل العالم يتجه للطاقة المتجددة كالشمس والرياح.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 70,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Dr. Sara Adel]\nIn a bustling city where time never seems to slow down, a beacon of hope exists in the form of Dr. Sara Adel, a young doctor whose dedication to helping others knows no bounds. Sara's journey as a doctor began with a simple desire to make a difference in the lives of those she met. She treats patients with empathy and kindness, and volunteers to extend healthcare to homeless and underserved communities.\n\nWhat motivated Dr. Sara Adel to pursue a career in medicine?",
+    "options": [
+      "Financial gain and high income",
+      "A simple desire to make a difference in people's lives",
+      "Pressure from her family members",
+      "A lack of other career choices"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "يذكر النص: (Sara’s journey as a doctor began with simple desire to make a difference in the lives of those she met).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 71,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Dr. Sara Adel]\nIn a bustling city where time never seems to slow down, a beacon of hope exists in the form of Dr. Sara Adel, a young doctor whose dedication to helping others knows no bounds. Sara's journey as a doctor began with a simple desire to make a difference in the lives of those she met. She treats patients with empathy and kindness, and volunteers to extend healthcare to homeless and underserved communities.\n\nHow does Dr. Sara approach her interactions with patients?",
+    "options": [
+      "With empathy and kindness",
+      "With strict indifference",
+      "With haste and detachment",
+      "With impatience"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "ورد في النص أنها تتعامل مع المرضى برحمة وتعاطف ولطف (empathy and kindness).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 72,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Dr. Sara Adel]\nIn a bustling city where time never seems to slow down, a beacon of hope exists in the form of Dr. Sara Adel, a young doctor whose dedication to helping others knows no bounds. Sara's journey as a doctor began with a simple desire to make a difference in the lives of those she met. She treats patients with empathy and kindness, and volunteers to extend healthcare to homeless and underserved communities.\n\nTo which communities does Dr. Sara volunteer her medical services outside the hospital?",
+    "options": [
+      "Only private clinics",
+      "Wealthy neighborhoods",
+      "Underserved and homeless communities",
+      "Only foreign tourists"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "يذكر النص صراحة أنها تتطوع لخدمة الفئات المحرومة والمشردين (homeless and underserved communities).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 73,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: The Rabbit and Her Friends]\nA rabbit was very popular with other animals, who all claimed to be her friends. But one day, she heard hunting dogs approaching and hoped to escape with the help of her friends. She went to the horse, but he refused, stating he had important work for his master. The bull replied he couldn't help, and the goat feared his back might be hurt. The sheep declined because dogs also eat sheep. Finally, the rabbit had to take to her heels and run on her own, successfully escaping.\n\nWhy did the horse refuse to carry the rabbit away?",
+    "options": [
+      "He was afraid of hunting dogs.",
+      "He had important work to do for his master.",
+      "He was too old and weak.",
+      "He disliked the rabbit."
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "ورد في النص: (he refused, stating that he had important work for his master).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 74,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: The Rabbit and Her Friends]\nA rabbit was very popular with other animals, who all claimed to be her friends. But one day, she heard hunting dogs approaching and hoped to escape with the help of her friends. She went to the horse, but he refused, stating he had important work for his master. The bull replied he couldn't help, and the goat feared his back might be hurt. The sheep declined because dogs also eat sheep. Finally, the rabbit had to take to her heels and run on her own, successfully escaping.\n\nHow did the rabbit ultimately save herself from the dogs?",
+    "options": [
+      "By hiding under the bull's horns",
+      "By relying on her own speed and running away",
+      "By climbing a tree with the sheep",
+      "By fighting the hunting dogs"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "يذكر النص: (the hare had to take to her heels. Luckily, she escaped) أي بالاعتماد على نفسها والركض بسرعة للنجاة.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 75,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: The Rabbit and Her Friends]\nA rabbit was very popular with other animals, who all claimed to be her friends. But one day, she heard hunting dogs approaching and hoped to escape with the help of her friends. She went to the horse, but he refused, stating he had important work for his master. The bull replied he couldn't help, and the goat feared his back might be hurt. The sheep declined because dogs also eat sheep. Finally, the rabbit had to take to her heels and run on her own, successfully escaping.\n\nWhat is the primary moral lesson of this fable?",
+    "options": [
+      "He who has many fair-weather friends has no true friends in need.",
+      "Animals should never live together.",
+      "Horses are faster than rabbits.",
+      "Hunting dogs are friendly."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المغزى الأخلاقي للمثل: الصديق الحقيقي يظهر وقت الضيق، والأصدقاء الكثيرون في وقت الرخاء قد لا ينفعونك وقت الشدة.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 76,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "All the following words share the meaning of happiness EXCEPT:",
+    "options": [
+      "Delighted",
+      "Glad",
+      "Dumbfounded",
+      "Thrilled"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "الكلمات (Delighted, Glad, Thrilled) كلها تعني مسرور ومبتهج، بينما (Dumbfounded) تعني مصدوم ومذهول من الدهشة.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 77,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "He finally ___ smoking after his doctor warned him.",
+    "options": [
+      "gave in",
+      "gave away",
+      "gave out",
+      "gave up"
+    ],
+    "correctAnswer": 3,
+    "correctIndex": 3,
+    "explanation": "الفعل المركب (give up) يعني يقلع عن عادة أو يتوقف عن ممارسة شيء (quit / abandon).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 78,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "She is looking forward to ___ her graduation results.",
+    "options": [
+      "receive",
+      "receiving",
+      "received",
+      "be received"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "التركيب (look forward to) يتبعه دائماً صيغة اسم الفاعل (Gerund: V-ing) وليس المصدر المجرد: (looking forward to receiving).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 79,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "Success in academic research depends ___ hard work and discipline.",
+    "options": [
+      "in",
+      "on",
+      "at",
+      "with"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "الفعل (depend) يأخذ دائماً حرف الجر (on): (depends on hard work).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 80,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "He was accused ___ committing plagiarism in his thesis.",
+    "options": [
+      "with",
+      "about",
+      "of",
+      "for"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "التركيب (accused of) يأخذ حرف الجر (of) بمعنى 'مُتَّهم بـ'.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 81,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "What is the antonym (opposite) of the word 'abundant'?",
+    "options": [
+      "Plentiful",
+      "Scarce",
+      "Generous",
+      "Rich"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "كلمة (abundant) تعني وفير وكثير، وعكسها الدقيق هو (scarce) أي نادر وشحيح.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 82,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "The professor asked the students to hand ___ their assignments by noon.",
+    "options": [
+      "out",
+      "in",
+      "up",
+      "away"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "الفعل المركب (hand in) يعني يسلم الواجب أو الورقة رسمياً للأستاذ (submit). بينما (hand out) يعني يوزع.",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 83,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "She succeeded ___ passing the national proficiency exam with flying colors.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "to"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الفعل (succeed) يأخذ دائماً حرف الجر (in + V-ing): (succeeded in passing).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 84,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "The meeting was called ___ due to bad weather conditions.",
+    "options": [
+      "off",
+      "out",
+      "away",
+      "for"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الفعل المركب (call off) يعني يلغي الفعالية أو الاجتماع (cancel).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 85,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "His explanation was so clear that it left no room for ___.",
+    "options": [
+      "ambiguity",
+      "clarity",
+      "certainty",
+      "truth"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المعنى: كان شرحه واضحاً لدرجة أنه لم يترك أي مجال للغموض أو اللبس (ambiguity).",
+    "source": "الاختبار الوطني الموحد للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 86,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Rose: 'Sara, may I borrow your umbrella, please?'\nSara: 'I'm sorry I can't lend it to you. Why don't you borrow one from Wendy?'\nWhat is Sara doing in her second sentence?",
+    "options": [
+      "To suggest",
+      "To remind",
+      "To encourage",
+      "To advise"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "صيغة (Why don't you...?) هي صيغة اقتراح بديل (To suggest).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 87,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Daisy: 'The charity walkathon is on June 20th.'\nAnne: 'Are you going to take part?'\nWhat is Anne doing?",
+    "options": [
+      "To inform",
+      "To enquire / ask",
+      "To offer",
+      "To suggest"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "السؤال بصيغة الاستفهام (Are you going to...?) يهدف إلى الاستفسار وطلب المعلومة (To enquire / ask).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 88,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Student: 'I am so sorry for making a noise during the lecture, sir.'\nTeacher: 'Make sure it does not happen again.'\nWhat did the student do?",
+    "options": [
+      "To complain",
+      "To apologize",
+      "To suggest",
+      "To decline"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "قول الطالب (I am so sorry for...) هو تقديم اعتذار رسمي مؤدب عن الخطأ (To apologize).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 89,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Sarah: 'I passed my master's degree comprehensive exam!'\nMother: 'Congratulations! I am so proud of you.'\nWhat function does the mother express?",
+    "options": [
+      "To congratulate",
+      "To apologize",
+      "To warn",
+      "To criticize"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "قول (Congratulations!) هو التعبير المباشر عن التهنئة والمباركة بالنجاح والإنجاز (To congratulate).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 90,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Passenger: 'Excuse me, is this seat taken?'\nGentleman: 'No, it's free. Please, have a seat.'\nWhat is the gentleman doing?",
+    "options": [
+      "Refusing permission",
+      "Welcoming / Offering a seat",
+      "Complaining about crowds",
+      "Expressing doubt"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "الرد بـ (Please, have a seat) يعبر عن الترحيب واللطف في تقديم المكان للآخرين (Welcoming / Offering).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 91,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Librarian: 'Silence, please! No mobile phones are allowed inside the reading hall.'\nWhat is the librarian doing?",
+    "options": [
+      "Giving an order / prohibition",
+      "Making an apology",
+      "Making a suggestion",
+      "Expressing gratitude"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "قول (Silence, please! No phones allowed) هو إعطاء تعليمات وقواعد إلزامية مع النهي (Prohibition / Order).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 92,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Patient: 'I have had a severe migraine for three days.'\nDoctor: 'You must get adequate sleep and drink plenty of fluids.'\nWhat is the doctor's function?",
+    "options": [
+      "Giving medical advice / instructions",
+      "Expressing surprise",
+      "Congratulating the patient",
+      "Making an apology"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "إرشاد الطبيب للمريض بـ (You must get adequate sleep...) هو تقديم النصيحة والتعليمات العلاجية (Giving advice/instructions).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 93,
+    "subject": "english",
+    "topic": "functions",
+    "topicName": "الوظائف اللغوية (Language Functions)",
+    "question": "Colleague: 'Thank you so much for helping me prepare the presentation.'\nPresenter: 'Don't mention it. It was my pleasure.'\nWhat is the presenter doing?",
+    "options": [
+      "Responding to thanks",
+      "Expressing anger",
+      "Refusing an offer",
+      "Making a complaint"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "عبارات مثل (Don't mention it / You're welcome / My pleasure) هي الرد القياسي المؤدب على الشكر (Responding to thanks).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 94,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Tom: '__________________'\nAdam: 'I think we are lost again; none of these streets look familiar.'\nChoose the best question to complete the dialogue:",
+    "options": [
+      "What's the matter?",
+      "Why don't you buy a map?",
+      "Are they coming soon?",
+      "Did you pass the test?"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "السؤال المناسب للاستفسار عن سبب قلق الشخص وحيرته هو: (What's the matter? = ما المشكلة؟ / ما بك؟).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 95,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Customer: 'Could I try on this jacket in a larger size?'\nShop Assistant: '__________________'\nChoose the best response:",
+    "options": [
+      "Certainly, let me check the stockroom for you.",
+      "No, you cannot buy it.",
+      "I don't like this color.",
+      "The store is open every day."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الرد المهني المؤدب في المتجر لطلب الزبون قياساً أكبر هو: (Certainly, let me check the stockroom for you = بكل سرور، دعني أتفقد المخزن لك).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 96,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Professor: 'Why didn't you submit your assignment on time?'\nStudent: '__________________'\nChoose the most logical excuse:",
+    "options": [
+      "My laptop crashed and I lost the final draft.",
+      "I finished it two weeks ago.",
+      "The exam was very easy.",
+      "I enjoy reading books."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "السبب المنطقي للاعتذار عن التأخير هو تعطل الحاسوب وفقدان المسودة النهائية (My laptop crashed and I lost the final draft).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 97,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Interviewer: 'Why do you want to join our graduate research program?'\nApplicant: '__________________'\nChoose the most appropriate academic response:",
+    "options": [
+      "Because this university has world-class laboratories in my field.",
+      "Because I have nothing else to do.",
+      "Because my friend told me to come.",
+      "I don't really know."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الجواب الأكاديمي الرصين في المقابلة هو توضيح تميز مختبرات الجامعة في مجال التخصص (world-class laboratories).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 98,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Man: 'Do you mind if I open the window? It's quite stuffy in here.'\nWoman: 'Not at all. Go right ahead.'\nWhat does the woman mean?",
+    "options": [
+      "She agrees to let him open the window.",
+      "She does not want him to open the window.",
+      "She thinks it is cold outside.",
+      "She wants to close the door."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "في اللغة الإنكليزية، الإجابة بـ (Not at all = لا مانع على الإطلاق) على سؤال (Do you mind...?) تعني الموافقة التامة (She agrees).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 99,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Speaker: 'Don't beat around the bush; just tell me what happened!'\nWhat does the idiom 'beat around the bush' mean?",
+    "options": [
+      "Avoid talking about the main issue directly.",
+      "Cut down bushes in the garden.",
+      "Speak very loudly and aggressively.",
+      "Run around in circles."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المثل الاصطلاحي (beat around the bush) يعني يلف ويدور ويتجنب الحديث المباشر في صلب الموضوع.",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 100,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثات والاستدلال (Conversations & Idioms)",
+    "question": "Researcher: 'We need to hit the books tonight if we want to pass the exam.'\nWhat does 'hit the books' mean?",
+    "options": [
+      "Study intensively.",
+      "Throw books on the floor.",
+      "Buy new textbooks.",
+      "Write a book review."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "المصطلح الدارج في البيئة الأكاديمية (hit the books) يعني يدرس بجد واجتهاد وتركيز شديد (study intensively).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 101,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Scarcely had the professor begun the lecture ___ the electricity went out.",
+    "options": [
+      "when",
+      "than",
+      "then",
+      "that"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "قاعدة الاقتران الزمني: (Scarcely / Hardly ... when)، بينما (No sooner ... than).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 102,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "The committee has decided to postpone the meeting ___ next Thursday.",
+    "options": [
+      "until",
+      "since",
+      "for",
+      "during"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "نستخدم (until) للدلالة على استمرار التأجيل حتى موعد محدد في المستقبل (postpone until next Thursday).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 103,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "She speaks as if she ___ everything about quantum physics.",
+    "options": [
+      "knew",
+      "knows",
+      "has known",
+      "will know"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "قاعدة (as if / as though): عند التعبير عن افتراض غير حقيقي أو مبالغة في الحاضر، نستخدم صيغة الماضي الافتراضي (Past Subjunctive: knew).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 104,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "The students were made ___ the experiment twice to ensure accuracy.",
+    "options": [
+      "repeat",
+      "to repeat",
+      "repeating",
+      "repeated"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "في صيغة المبني للمعلوم نقول (made someone do something بدون to)، أما عند التحويل للمبني للمجهول فيجب إضافة to: (were made to repeat).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 105,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Hardly ___ entered the laboratory when the fire alarm sounded.",
+    "options": [
+      "had he",
+      "he had",
+      "did he",
+      "he was"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "قاعدة القلب وتقديم الفعل المساعد (Inversion): عندما تبدأ الجملة بظرف نفي مثل (Hardly / Scarcely / Seldom) يتقدم الفعل المساعد على الفاعل: (Hardly had he entered...).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 106,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "I would rather you ___ anyone about our secret research project.",
+    "options": [
+      "didn't tell",
+      "don't tell",
+      "not to tell",
+      "won't tell"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "قاعدة (would rather + subject): عندما يأتي فاعل بعد would rather للإشارة للحاضر، يأخذ الفعل صيغة الماضي البسيط (didn't tell).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 107,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Despite ___ hard for weeks, he failed to achieve the required score.",
+    "options": [
+      "study",
+      "studied",
+      "studying",
+      "he studied"
+    ],
+    "correctAnswer": 2,
+    "correctIndex": 2,
+    "explanation": "قاعدة (Despite / In spite of): يأتي بعدها اسم أو فعل مضاف له ing (Gerund): (Despite studying hard...).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 108,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "The new library building is said ___ the largest in the region.",
+    "options": [
+      "to be",
+      "that it is",
+      "being",
+      "is"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "تركيبة المبني للمجهول غير الشخصي: (is said / believed / thought + to + infinitive): (is said to be the largest...).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 109,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "It is high time we ___ practical solutions to environmental pollution.",
+    "options": [
+      "find",
+      "found",
+      "have found",
+      "finding"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "قاعدة (It is high time + subject): التعبير عن أن الوقت قد حان وتأخر، فيتبعه فعل في الماضي البسيط (found).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 110,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "The more you read scientific literature, ___ your academic writing becomes.",
+    "options": [
+      "the better",
+      "better",
+      "the best",
+      "best"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "صيغة المقارنة المتوازية (The more ... the better): (The + comparative, the + comparative) كلما قرأت أكثر، كلما تحسنت كتابتك.",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 111,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Oil Painting]\nOil painting has a rich history that dates back to ancient civilizations, but it gained immense prominence during the Renaissance. Artists like Leonardo da Vinci and Rembrandt favored oil paints because they dry slowly, allowing painters to blend colors smoothly and create realistic textures and luminous depth. However, oil paintings require careful preservation, as exposure to excessive light, humidity, or temperature fluctuations can cause the paint to crack or fade over centuries.\n\nWhy did Renaissance masters favor oil paints over other mediums?",
+    "options": [
+      "Because they dry rapidly within minutes.",
+      "Because they dry slowly, allowing smooth blending and realistic depth.",
+      "Because they were the cheapest paints available.",
+      "Because they could not be preserved."
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "يذكر النص صراحة: (Artists favored oil paints because they dry slowly, allowing painters to blend colors smoothly and create realistic textures).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 112,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Oil Painting]\nOil painting has a rich history that dates back to ancient civilizations, but it gained immense prominence during the Renaissance. Artists like Leonardo da Vinci and Rembrandt favored oil paints because they dry slowly, allowing painters to blend colors smoothly and create realistic textures and luminous depth. However, oil paintings require careful preservation, as exposure to excessive light, humidity, or temperature fluctuations can cause the paint to crack or fade over centuries.\n\nWhat can happen to oil paintings if exposed to excessive humidity and light?",
+    "options": [
+      "They become brighter and more colorful.",
+      "The paint may crack or fade over time.",
+      "The canvas becomes completely waterproof.",
+      "They dry immediately."
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "ورد في النص أن التعرض للرطوبة والضوء يسبب تشقق الألوان أو بهتانها (cause the paint to crack or fade).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 113,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Oil Painting]\nOil painting has a rich history that dates back to ancient civilizations, but it gained immense prominence during the Renaissance. Artists like Leonardo da Vinci and Rembrandt favored oil paints because they dry slowly, allowing painters to blend colors smoothly and create realistic textures and luminous depth. However, oil paintings require careful preservation, as exposure to excessive light, humidity, or temperature fluctuations can cause the paint to crack or fade over centuries.\n\nWhich historical era is highlighted as the period when oil painting gained great prominence?",
+    "options": [
+      "The Industrial Revolution",
+      "The Renaissance",
+      "The Modern Era",
+      "Ancient Egypt"
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "يذكر النص: (it gained immense prominence during the Renaissance).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 114,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Artificial Intelligence in Higher Education]\nArtificial intelligence (AI) is transforming academic environments worldwide. Universities are integrating AI algorithms to analyze student performance, personalize learning experiences, and automate administrative assessments. Proponents argue that intelligent tutoring systems allow students to learn at their own pace, while critics raise concerns regarding data privacy, academic dishonesty, and the potential reduction of critical thinking skills when students rely excessively on automated tools.\n\nWhat is one key benefit of AI tutoring systems mentioned in the passage?",
+    "options": [
+      "They eliminate the need for university professors.",
+      "They allow students to learn at their own individualized pace.",
+      "They make exams completely unnecessary.",
+      "They reduce tuition fees to zero."
+    ],
+    "correctAnswer": 1,
+    "correctIndex": 1,
+    "explanation": "يذكر النص: (intelligent tutoring systems allow students to learn at their own pace).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 115,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Passage: Artificial Intelligence in Higher Education]\nArtificial intelligence (AI) is transforming academic environments worldwide. Universities are integrating AI algorithms to analyze student performance, personalize learning experiences, and automate administrative assessments. Proponents argue that intelligent tutoring systems allow students to learn at their own pace, while critics raise concerns regarding data privacy, academic dishonesty, and the potential reduction of critical thinking skills when students rely excessively on automated tools.\n\nWhat concern do critics express regarding students' excessive reliance on AI?",
+    "options": [
+      "A potential reduction in critical thinking skills and data privacy risks.",
+      "That computers will consume too much electricity.",
+      "That universities will run out of textbooks.",
+      "That students will stop using the internet."
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "يذكر النص مخاوف النقاد بشأن الخصوصية وضعف مهارات التفكير النقدي لدى الطلاب (reduction of critical thinking skills).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 116,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "A scientist who studies living organisms and their interactions is a ___.",
+    "options": [
+      "biologist",
+      "geologist",
+      "physicist",
+      "meteorologist"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "عالم الأحياء والكائنات الحية يُسمّى (biologist)، بينما (geologist) لطبقات الأرض، و (meteorologist) للطقس.",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 117,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "The university decided to ___ the new code of ethics next semester.",
+    "options": [
+      "implement",
+      "ignore",
+      "hesitate",
+      "demolish"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الفعل الأكاديمي (implement) يعني يُطبّق أو يضع موضع التنفيذ (put into effect).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 118,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "What is the synonym of the academic word 'crucial'?",
+    "options": [
+      "Vital / Extremely important",
+      "Trivial",
+      "Optional",
+      "Irrelevant"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "كلمة (crucial) تعني حاسم وجوهري وبالغ الأهمية، ومرادفها (vital / essential).",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 119,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "The results of the laboratory experiment were ___ with earlier findings.",
+    "options": [
+      "consistent",
+      "conflicting",
+      "irrelevant",
+      "useless"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "الصفة (consistent with) تعني متسقة ومتوافقة مع النتائج السابقة.",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 120,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات والمصطلحات (Vocabulary & Prepositions)",
+    "question": "He was given a prestigious award in recognition ___ his scientific discoveries.",
+    "options": [
+      "of",
+      "for",
+      "to",
+      "with"
+    ],
+    "correctAnswer": 0,
+    "correctIndex": 0,
+    "explanation": "التركيب الاصطلاحي (in recognition of) يعني تقديراً وعرفاناً بـ.",
+    "source": "مرشحات الاختبار الوطني للغة الإنكليزية - الدراسات العليا"
+  },
+  {
+    "id": 121,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "قواعد ومفردات (Vocabulary & Pronouns)",
+    "question": "Who was at the party? .......... Pete, Anne, Mark, Barry, all the Pearson's, Sally Masters and Sally Bennett.",
+    "options": [
+      "Anyone",
+      "Someone",
+      "Everyone",
+      "No one"
+    ],
+    "correctIndex": 2,
+    "explanation": "نستخدم Everyone (الجميع) لأن المتحدث ذكر قائمة بجميع الأشخاص الموجودين في الحفلة.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 122,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "قواعد ومفردات (Vocabulary & Pronouns)",
+    "question": "What would you like to eat for lunch? .......... I don't mind.",
+    "options": [
+      "Nothing",
+      "Something",
+      "Everything",
+      "Anything"
+    ],
+    "correctIndex": 3,
+    "explanation": "نستخدم Anything بمعنى (أي شيء) عندما يتبعها I don't mind (لا مانع لدي / أي شيء تختاره يناسبني).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 123,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "قواعد ومفردات (Vocabulary & Pronouns)",
+    "question": "Where do you want to go on holiday? ......... with a beach. I don't care where we go as long as it's sunny and has got a nice sandy beach.",
+    "options": [
+      "Anywhere",
+      "Nowhere",
+      "Somewhere",
+      "Everywhere"
+    ],
+    "correctIndex": 2,
+    "explanation": "نستخدم Somewhere (مكان ما) لتحديد رغبة إيجابية في مكان يمتلك شاطئاً مشمساً.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 124,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "قواعد ومفردات (Vocabulary & Pronouns)",
+    "question": "I have ......... to say to you. Goodbye.",
+    "options": [
+      "nothing",
+      "something",
+      "everything",
+      "anything"
+    ],
+    "correctIndex": 0,
+    "explanation": "نستخدم nothing بمعنى (لا شيء) مع الفعل المثبت have لإفادة النفي التام وإنهاء الحديث.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 125,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "قواعد ومفردات (Vocabulary & Pronouns)",
+    "question": "I felt so embarrassed at the party. I was sure that ------------- was looking at me.",
+    "options": [
+      "anyone",
+      "someone",
+      "everyone",
+      "no one"
+    ],
+    "correctIndex": 2,
+    "explanation": "الشعور بالإحراج الشديد سببه الاعتقاد بأن (everyone - الجميع) كان يحدق بي.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 126,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "Can you please ......... us some money until we get paid next week?",
+    "options": [
+      "lend",
+      "give",
+      "borrow",
+      "grant"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل lend يعني (يُقرِض أو يُسلّف شخصاً مالاً)، بينما borrow تعني (يستعير من شخص).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 127,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "I decided to invest in the commodities market, as the ......... on offer from the bank was at an all-time low.",
+    "options": [
+      "increase",
+      "interest",
+      "rent",
+      "tax"
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة interest في السياق المالي والبنكي تعني (سعر الفائدة البنكية).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 128,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "Many retailers in Jakarta refuse to exchange purchases unless you can show them your ..........",
+    "options": [
+      "recipe",
+      "receipt",
+      "bill",
+      "change"
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة receipt (تُلفظ بدون حرف p) تعني وصل أو إيصال الشراء، بينما recipe تعني وصفة طهي.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 129,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "My boss informed me that I had been nominated to ......... a sales pitch to one of our company's largest buyers.",
+    "options": [
+      "make",
+      "perform",
+      "talk",
+      "do"
+    ],
+    "correctIndex": 0,
+    "explanation": "التعبير الاصطلاحي القياسي في التجارة وإدارة الأعمال هو (make a sales pitch) أي يقدّم عرضاً ترويجياً للمبيعات.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 130,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "I saw a very good ......... advertised in the newspaper this week.",
+    "options": [
+      "employment",
+      "occupation",
+      "work",
+      "job"
+    ],
+    "correctIndex": 3,
+    "explanation": "كلمة job اسم معدود يُسبق بأداة التنكير (a very good job)، بينما work اسم غير معدود لا يأخذ a.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 131,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "My wife has a ......... job at the department store.",
+    "options": [
+      "half-time",
+      "spare-time",
+      "part-time",
+      "over-time"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح الرسمي للعمل بدوام جزئي هو (part-time job) يقابله (full-time job) للدوام الكامل.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 132,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "The cardiologist gave his patient a ......... for some medicine.",
+    "options": [
+      "recipe",
+      "statement",
+      "prescription",
+      "receipt"
+    ],
+    "correctIndex": 2,
+    "explanation": "كلمة prescription تعني الوصفة الطبية (الروشتة) التي يحررها الطبيب لصرف الأدوية.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 133,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "When a fire broke out at the Louvre, at least twenty ......... paintings were destroyed, including two by Henri Matisse.",
+    "options": [
+      "worthless",
+      "priceless",
+      "valueless",
+      "useless"
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة priceless تعني (لا تُقدّر بثمن لنفاستها وعظمتها)، بينما worthless و valueless تعنيان عديمة القيمة.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 134,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "I must remember to fill in my tax ......... before the end of this week.",
+    "options": [
+      "brochure",
+      "pamphlet",
+      "return",
+      "document"
+    ],
+    "correctIndex": 2,
+    "explanation": "المصطلح القانوني والمالي الرسمي للإقرار الضريبي هو (tax return).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 135,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "Can you take this money to the bank and make a ......... for me?",
+    "options": [
+      "loan",
+      "transaction",
+      "deposit",
+      "withdrawal"
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل (make a deposit) يعني إجراء إيداع مالي في الحساب البنكي.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 136,
+    "subject": "english",
+    "topic": "vocabulary",
+    "topicName": "المفردات وحروف الجر (Vocabulary & Prepositions)",
+    "question": "Tourists who try to visit Australia without a visa will usually be ......... entry into the country.",
+    "options": [
+      "refused",
+      "rejected",
+      "revoked",
+      "rebuked"
+    ],
+    "correctIndex": 0,
+    "explanation": "المصطلح الشائع في قوانين الهجرة والحدود هو (refused entry) أي يُرفض دخولهم وتأشيرتهم.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 137,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "After years of working for a shoddy employer, I was finally able to ------------ from that company and set up my own business.",
+    "options": [
+      "break off",
+      "break away",
+      "break out",
+      "break up"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل المركب (break away from) يعني ينفصل أو يستقل عن جهة أو رب عمل ليؤسس عمله الخاص.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 138,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Did ......... phone me when I was out?",
+    "options": [
+      "anyone",
+      "someone",
+      "everyone",
+      "no one"
+    ],
+    "correctIndex": 0,
+    "explanation": "في صيغة الاستفهام والأسئلة نستخدم الضمير غير المحدد (anyone).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 139,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "Your face looks terribly familiar. Haven't I seen you ......... before?",
+    "options": [
+      "anywhere",
+      "nowhere",
+      "somewhere",
+      "everywhere"
+    ],
+    "correctIndex": 2,
+    "explanation": "في الأسئلة التي يتوقع المتحدث إجابتها بالإيجاب (سؤال تأكيدي) نستخدم (somewhere).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 140,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "She left the room without saying ..........",
+    "options": [
+      "nothing",
+      "something",
+      "everything",
+      "anything"
+    ],
+    "correctIndex": 3,
+    "explanation": "كلمة without تفيد النفي، وبعد الكلمات ذات المعنى المنفي نستخدم (anything) منعاً للنفي المزدوج.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 141,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "I have never been ......... more beautiful than Thailand.",
+    "options": [
+      "somewhere",
+      "everywhere",
+      "anywhere",
+      "nowhere"
+    ],
+    "correctIndex": 2,
+    "explanation": "مع كلمة النفي (never) نستخدم (anywhere) لتجنب نفي النفي.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 142,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "NASA is currently in the process of working out how to prevent any more of its spaceships from ---------- on re-entry into Earth's atmosphere.",
+    "options": [
+      "breaking up",
+      "breaking out",
+      "breaking away",
+      "breaking off"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل المركب (break up) يعني يتفتت أو يتكسر إلى أجزاء وشظايا صغيرة بفعل الضغط أو الحرارة.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 143,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "Residents living in the immediate vicinity of the prison were told to be on the lookout for a group of criminals who recently -------- of jail.",
+    "options": [
+      "broke out",
+      "broke up",
+      "broke away",
+      "broke off"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل المركب (break out of jail) يعني يهرب أو يفر بالقوة من السجن.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 144,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "It can be very difficult for young couples to -------- their marriage when there are young children involved.",
+    "options": [
+      "break up",
+      "break out",
+      "break away",
+      "break off"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل المركب (break up a marriage) يعني ينهي أو يفسخ علاقة الزواج بالطلاق والانفصال.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 145,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "I decided to ------ my relationship with my girlfriend when I found out that she was seeing someone else.",
+    "options": [
+      "break away",
+      "break off",
+      "break out",
+      "break open"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل المركب (break off a relationship) يعني يقطع أو ينهي علاقة عاطفية أو خطوبة.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 146,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "Be careful not to spill the yolk when you --------- the egg.",
+    "options": [
+      "break open",
+      "break out",
+      "break down",
+      "break off"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل المركب (break open) يعني يكسر شيئاً ليفتحه ويخرج ما بداخله ككسر البيضة.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 147,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "قواعد اللغة الإنكليزية (Grammar)",
+    "question": "I asked if ......... wanted an ice cream?",
+    "options": [
+      "anyone",
+      "someone",
+      "everyone",
+      "no one"
+    ],
+    "correctIndex": 0,
+    "explanation": "بعد أداة الشرط غير المباشر (if) في الأسئلة المنقولة نستخدم الضمير (anyone).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 148,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "A burglar ------- my house when I was away on vacation and stole some of my electronic goods.",
+    "options": [
+      "broke into",
+      "broke open",
+      "broke off",
+      "broke up"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل المركب (break into a house) يعني يقتحم بيتاً خلسة أو عنوة بهدف السرقة.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 149,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "Teachers in Sydney have decided to call a snap strike next week after negotiations with the State Government over a ten percent pay increase ------ early this morning.",
+    "options": [
+      "broke open",
+      "broke into",
+      "broke down",
+      "broke up"
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل المركب (break down) عند الحديث عن المفاوضات يعني تفشل أو تنهار وتتعطل.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 150,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "A rebel Labour Party MP recently decided to ------ from his party and become an independent member for his electorate.",
+    "options": [
+      "break up",
+      "break out",
+      "break off",
+      "break away"
+    ],
+    "correctIndex": 3,
+    "explanation": "الفعل المركب (break away from a party) يعني ينشق أو ينفصل عن حزب سياسي.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 151,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "I am always very worried that my car will ------, because it is already twenty years old.",
+    "options": [
+      "break down",
+      "break out",
+      "break away",
+      "break off"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل المركب (break down) للآلات والمركبات يعني تتعطل وتتوقف عن العمل ميكانيكياً.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 152,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "The Australian Labour Party doesn't currently have any politicians that would be capable of successfully --------- the Prime Minister at the next federal election.",
+    "options": [
+      "running away with",
+      "running for",
+      "running against",
+      "running down"
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل المركب (run against someone) يعني ينافس مرشحاً آخر في سباق انتخابي.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 153,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "Hillary Clinton has not ruled out --------- president at the next election.",
+    "options": [
+      "running off",
+      "running for",
+      "running against",
+      "running down"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل المركب (run for president / an office) يعني يترشح لمنصب رسمي.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 154,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "My parents were very disappointed when they found out that I had --------- all their money.",
+    "options": [
+      "run off with",
+      "run for",
+      "run against",
+      "run into"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل المركب (run off with money) يعني يستولي ويهرب بالمال خلسة.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 155,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "The --------- apartment block failed to attract any buyers and was taken off the market so renovations could be carried out.",
+    "options": [
+      "run-off",
+      "run-through",
+      "run-after",
+      "run-down"
+    ],
+    "correctIndex": 3,
+    "explanation": "الصفة المركبة (run-down) تعني مبنى متهالكاً أو متداعياً في حالة سيئة ويحتاج إلى ترميم.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 156,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "Many children try to --------- from home for one reason or another at least once during their childhood.",
+    "options": [
+      "run away",
+      "run for",
+      "run against",
+      "run down"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل المركب (run away from home) يعني يفر ويهرب من المنزل.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 157,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "It's so nice to --------- you again after all this time. I don't think I've seen you for at least twenty years.",
+    "options": [
+      "run out",
+      "run into",
+      "run after",
+      "run off"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل المركب (run into someone) يعني يلتقي بشخص مصادفة دون موعد مسبق.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 158,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "Can you please --------- our marketing campaign with me one more time? I don't fully understand it yet.",
+    "options": [
+      "run off",
+      "run into",
+      "run through",
+      "run after"
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل المركب (run through) يعني يستعرض أو يراجع خطة أو تقريراً بسرعة مع شخص آخر.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 159,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "Our dog loves to --------- the mail truck.",
+    "options": [
+      "run through",
+      "run over",
+      "run after",
+      "run in"
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل المركب (run after) يعني يطارد أو يجري خلف شيء متحرك.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 160,
+    "subject": "english",
+    "topic": "grammar",
+    "topicName": "الأفعال المركبة والقواعد (Phrasal Verbs & Grammar)",
+    "question": "My mum had a --------- with my teacher for not allowing me to go to the toilet during class.",
+    "options": [
+      "run-on",
+      "run-in",
+      "rundown",
+      "run-off"
+    ],
+    "correctIndex": 1,
+    "explanation": "الاسم المركب (a run-in with someone) يعني شجاراً أو مشادة وخلافاً حاداً مع شخص.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 161,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nAccording to the passage, in which season are bear cubs born?",
+    "options": [
+      "Winter",
+      "Spring",
+      "Summer",
+      "Fall"
+    ],
+    "correctIndex": 0,
+    "explanation": "تذكر القطعة نصاً: 'Like Black Bear cubs, Brown Bear cubs are born in winter.' (تولد أشبال الدببة في فصل الشتاء).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 162,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nWhat do bear cubs and their mothers do throughout the entire winter season?",
+    "options": [
+      "They learn to hunt",
+      "They run and play outdoors",
+      "They fish in rivers",
+      "They rest and sleep in their den"
+    ],
+    "correctIndex": 3,
+    "explanation": "تذكر القطعة: 'During the winter, the cubs sleep in the den with their mothers. They rest all winter.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 163,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nHow tall can an adult Brown Bear get when standing upright on its hind legs?",
+    "options": [
+      "Under 7 feet tall",
+      "Up to 8 feet tall",
+      "Under 9 feet tall",
+      "Up to 10 feet tall"
+    ],
+    "correctIndex": 3,
+    "explanation": "تذكر القطعة نصاً: 'A Brown Bear can be up to ten feet tall if it stands on its hind legs.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 164,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nBrown Bear cubs leave their mothers to start their own lives when they are:",
+    "options": [
+      "1-2 years old",
+      "2-4 years old",
+      "3-5 years old",
+      "5-6 years old"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة نصاً: 'Brown Bear cubs stay with their mothers for 2-4 years.' ثم يبتعدون ليعيشوا مستقلين.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 165,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nWhere do Brown Bears prefer to hunt for their prey?",
+    "options": [
+      "In small caves",
+      "In large, open spaces",
+      "Inside deep rivers only",
+      "Near urban cities"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة نصاً: 'They like to hunt in large, open spaces.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 166,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nIn biological terms, 'bear cubs' refers to:",
+    "options": [
+      "Mother bears",
+      "Baby bears",
+      "Groups of migrating bears",
+      "Winter bear dens"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة نصاً: 'The baby bears are called cubs.' (صغار الدببة أو أشبالها تُسمى cubs).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 167,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nWhat is the best contextual synonym for the word 'during' in the passage?",
+    "options": [
+      "after",
+      "before",
+      "while",
+      "what"
+    ],
+    "correctIndex": 2,
+    "explanation": "كلمة during تعني (خلال أو أثناء)، وأقرب مرادف لها هو (while).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 168,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nAccording to the passage context, 'outside' means:",
+    "options": [
+      "A deep river",
+      "A place that is in the bear den",
+      "A place that is not enclosed by walls",
+      "A dark cave"
+    ],
+    "correctIndex": 2,
+    "explanation": "كلمة outside تعني في الهواء الطلق والخارج (مكان غير محاط بجدران مغلقة كعرين الدب).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 169,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nWhen young bears 'leave' their mother's den, they:",
+    "options": [
+      "go home",
+      "go to sleep",
+      "go away to live independently",
+      "go back to winter"
+    ],
+    "correctIndex": 2,
+    "explanation": "المعنى السياقي لـ leave في 'leave their mother' هو الابتعاد لبدء حياتهم الخاصة (go away).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 170,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Bears]\nWhat is the meaning of 'open spaces' where bears like to roam and hunt?",
+    "options": [
+      "Big places with many dense trees",
+      "Large, wide grassy areas without obstacles",
+      "Small caves with tall rocks",
+      "Enclosed human farms"
+    ],
+    "correctIndex": 1,
+    "explanation": "المقصود بـ open spaces هي الأراضي والمساحات الواسعة المكشوفة (Big grassy areas).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 171,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nAccording to historical records in the passage, who originally invented Coca-Cola in 1886?",
+    "options": [
+      "The Coca-Cola Company corporation",
+      "John S. Pemberton",
+      "Frank Robinson",
+      "Henri Matisse"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة نصاً: 'Coca-Cola was invented in 1886 by Atlanta pharmacist John S. Pemberton.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 172,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nWho proposed and coined the brand name 'Coca-Cola'?",
+    "options": [
+      "The Atlanta mayor",
+      "John S. Pemberton himself",
+      "Frank Robinson (Pemberton's assistant)",
+      "Jacob Pharmacy customers"
+    ],
+    "correctIndex": 2,
+    "explanation": "تذكر القطعة: 'The name for the product was actually proposed by Pemberton's assistant, Frank Robinson.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 173,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nFrom which two unusual ingredients was the brand name 'Coca-Cola' derived?",
+    "options": [
+      "South American coca leaf and African cola nut",
+      "Citrus fruit extract and cane sugar",
+      "Fizzy mineral water and caramel",
+      "Cinnamon bark and vanilla beans"
+    ],
+    "correctIndex": 0,
+    "explanation": "تذكر القطعة: 'The name was taken from the two most unusual ingredients in the drink, the South American coca leaf and the African cola nut.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 174,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nWhich of the following statements is NOT true regarding the naming of Coca-Cola?",
+    "options": [
+      "The name 'coca' comes from the coca leaf",
+      "The name 'cola' comes from the cola nut",
+      "Frank Robinson suggested the name",
+      "The inventor John Pemberton came up with the name alone"
+    ],
+    "correctIndex": 3,
+    "explanation": "العبارة غير الصحيحة هي أن المخترع هو من ابتكر الاسم، لأن مساعده فرانك روبنسون هو صاحب الفكرة.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 175,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nThe word 'recipe' in the passage is closest in meaning to:",
+    "options": [
+      "Information about medical drugs",
+      "A description of ingredients and how to prepare something",
+      "An annual financial balance sheet",
+      "A corporate marketing campaign"
+    ],
+    "correctIndex": 1,
+    "explanation": "كلمة recipe تعني الوصفة وتحديداً قائمة المكونات وطريقة تحضيرها (how to prepare something).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 176,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nThe passage states that the exact formula and recipe for Coca-Cola is:",
+    "options": [
+      "Well known to all beverage companies",
+      "Known by only a limited number of senior corporate officers",
+      "Completely unknown to anyone alive",
+      "Published in international scientific journals"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة: 'The proportions of the ingredients... are known only by a few of the Coca-Cola Company’s senior corporate officers.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 177,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nThe word 'unusual' in the passage is closest in meaning to:",
+    "options": [
+      "Uncommon",
+      "Important",
+      "Unused",
+      "Tasty"
+    ],
+    "correctIndex": 0,
+    "explanation": "كلمة unusual تعني غير اعتيادي أو نادر، وأقرب مرادف لها هو (uncommon).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 178,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nThe word 'secret' in 'secret ingredients' could best be replaced by:",
+    "options": [
+      "Unrevealed",
+      "Delicious",
+      "Commercial",
+      "Speechless"
+    ],
+    "correctIndex": 0,
+    "explanation": "كلمة secret تعني سري أو غير معلن للعامة، وأنسب بديل دقيق لها هو (unrevealed).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 179,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nThe word 'senior' in 'senior corporate officers' describes individuals who are:",
+    "options": [
+      "Trustworthy",
+      "High-level executives",
+      "Very old in age",
+      "Retired consultants"
+    ],
+    "correctIndex": 1,
+    "explanation": "في هيكل الشركات تعني senior officers كبار المسؤولين التنفيذيين ذوي المستوى الإداري العالي (High-level).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 180,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Coca-Cola]\nWhich of the following was NOT mentioned in the passage as an ingredient of Coca-Cola?",
+    "options": [
+      "Orange leaves",
+      "Nutmeg",
+      "Vanilla",
+      "Caramel"
+    ],
+    "correctIndex": 0,
+    "explanation": "القطعة ذكرت البرتقال والليمون وأوراق الكوكا وجوزة الطيب، لكنها لم تذكر أوراق البرتقال (Orange leaves).",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 181,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nIn what type of climate and environment do cacti typically thrive and grow?",
+    "options": [
+      "In tropical rainforests",
+      "In very hot, dry arid places",
+      "In frozen arctic tundra",
+      "In underwater reefs"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة نصاً في أول جملة: 'The cactus is a plant which grows in very hot, dry places.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 182,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nWhat physical feature do cacti have on their stems instead of regular broad leaves?",
+    "options": [
+      "Soft green petals",
+      "Spiny needles",
+      "Flat bark scales",
+      "Velvet fuzz"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة: 'They do not have leaves. Instead, they have spiny needles which stick out of their stems.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 183,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nWhy do certain cactus flowers open and bloom specifically at night?",
+    "options": [
+      "Because daytime heat burns their petals",
+      "Because they are pollinated by nocturnal insects and small animals",
+      "To absorb sunlight reflecting from the moon",
+      "To avoid desert winds"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة: 'Their flowers come out at night because they are pollinated by insects or small animals that come out at night.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 184,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nWhere are the majority of wild cactus species natively found in the world?",
+    "options": [
+      "In North and South America",
+      "In Western Europe",
+      "In Northern Russia",
+      "In Antarctica"
+    ],
+    "correctIndex": 0,
+    "explanation": "تذكر القطعة نصاً: 'Most cacti live in North and South America.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 185,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nWhy is it biologically advantageous for cacti NOT to have large leaves?",
+    "options": [
+      "Because large leaves would make the plant too heavy",
+      "Because large leaves would allow vital stored water to evaporate",
+      "Because large leaves block nocturnal pollinators",
+      "Because large leaves attract desert herbivores"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة: 'Cacti do not have very large leaves because large leaves would allow the water to evaporate.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 186,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nAccording to physical science explained in the passage, when water evaporates, it transforms from:",
+    "options": [
+      "A gas to a solid",
+      "A liquid to a gas",
+      "A liquid to a solid",
+      "A gas to a plasma"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة: 'When water evaporates, it changes from a liquid to a gas.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 187,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nWhat is the biological function of the waxy coating present on some cactus stems?",
+    "options": [
+      "To reflect all sunlight away",
+      "To channel moisture down the stem straight to the root system",
+      "To produce sticky nectar for birds",
+      "To change the plant color according to seasons"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة: 'Some cacti have waxy coatings on their stems, so that water will run down the stem to the roots.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 188,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nSince rainfall is rare in desert regions, how can cacti gather atmospheric water?",
+    "options": [
+      "They absorb moisture directly from desert fog in the air",
+      "They melt subterranean ice",
+      "They produce water synthetically inside flowers",
+      "They draw water only from neighboring trees"
+    ],
+    "correctIndex": 0,
+    "explanation": "تذكر القطعة: 'Cacti can absorb water from fog in the air, since it does not rain very much in the desert.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 189,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nWhy do most cacti possess widespread root systems close to the soil surface?",
+    "options": [
+      "To anchor the heavy plant against storms",
+      "To rapidly absorb large volumes of moisture during brief rainfalls",
+      "To avoid deep underground burrowing insects",
+      "To share soil minerals with other desert flora"
+    ],
+    "correctIndex": 1,
+    "explanation": "تذكر القطعة: 'Most cacti have long roots which can spread out close to the surface so they can absorb a lot of water on the occasions when it rains.'",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 190,
+    "subject": "english",
+    "topic": "reading",
+    "topicName": "استيعاب المقروء (Reading Comprehension)",
+    "question": "[Reading Passage: Cacti]\nWhat is the grammatically correct plural form of the botanical noun 'cactus'?",
+    "options": [
+      "Cactuses or Cacti",
+      "Cactas",
+      "Cacti only without any other form",
+      "Cactone"
+    ],
+    "correctIndex": 0,
+    "explanation": "في قواعد اللغة الإنكليزية اللاتينية الأصل، جمع cactus هو cacti أو cactuses وكلاهما صحيح ومعتمد في المعاجم.",
+    "source": "ملزمة كفاءة اللغة الإنكليزية - د. صفاء الكناني (الامتحان الوطني)"
+  },
+  {
+    "id": 191,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): Billy really made a big mistake this time.\n(Woman): Yes, he forgot to turn in his research paper.\n(Narrator): What does the woman say about Billy?",
+    "options": [
+      "It was the first time he made a mistake.",
+      "He forgot to write his paper.",
+      "He turned in the paper in the wrong place.",
+      "He did not remember to submit his assignment."
+    ],
+    "correctIndex": 3,
+    "explanation": "القاعدة (Skill 1 - التركيز على السطر الثاني): قالت المرأة 'he forgot to turn in his research paper'، وعبارة 'turn in' تعني 'submit' (يسلّم)، و'forgot' تعني 'did not remember'.",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 1)"
+  },
+  {
+    "id": 192,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Woman): Why is Barbara feeling so happy?\n(Man): She just started working in a real estate agency.\n(Narrator): What does the man say about Barbara?",
+    "options": [
+      "She always liked her work in real estate.",
+      "She began a new job.",
+      "She just bought some real estate.",
+      "She bought a real estate agency."
+    ],
+    "correctIndex": 1,
+    "explanation": "القاعدة (Skill 2 - اختيار المرادفات): قال الرجل 'started working'، وكلمة 'started' يرادفها 'began'، و'working' يرادفها 'a new job'.",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 2)"
+  },
+  {
+    "id": 193,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): Why couldn't Mark come with us?\n(Woman): He was searching for a new apartment.\n(Narrator): What does the woman say about Mark?",
+    "options": [
+      "He was in the department office.",
+      "He was looking for a place to live.",
+      "He was working on his research project.",
+      "He had an appointment at church."
+    ],
+    "correctIndex": 1,
+    "explanation": "القاعدة (Skill 3 - تجنب الكلمات المتشابهة في اللفظ والمختلفة في المعنى): عبارة 'searching for an apartment' تعني 'looking for a place to live'. أما كلمات department, research, appointment فوضعت للتمويه لتشابه اللفظ.",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 3)"
+  },
+  {
+    "id": 194,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): Can you tell me what assignments I missed when I was absent from your class?\n(Woman): You missed one homework assignment and a quiz.\n(Narrator): Who is the man?",
+    "options": [
+      "A newspaper editor",
+      "A police officer",
+      "A teacher",
+      "A student"
+    ],
+    "correctIndex": 3,
+    "explanation": "القاعدة (Skill 4 - استنتاج هوية المتحدث Who): الرجل يسأل عن الواجبات والاختبار التي فاتته بسبب غيابه عن الصف (absent from your class)، مما يدل قطعاً على أنه طالب (A student).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 4)"
+  },
+  {
+    "id": 195,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Woman): Are you going to read those books here in the library?\n(Man): I think I'd rather check them out now and take them home.\n(Narrator): What will the man probably do next?",
+    "options": [
+      "Sit down in the library.",
+      "Look for some more books.",
+      "Return the books to the shelves.",
+      "Go to the circulation desk."
+    ],
+    "correctIndex": 3,
+    "explanation": "القاعدة (Skill 5 - استنتاج ما سيحدث بعد ذلك What next): يريد الرجل استعارة الكتب وأخذها للبيت (check them out)، وبالتالي الخطوة التالية هي التوجه إلى مكتب الإعارة في المكتبة (circulation desk).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 5)"
+  },
+  {
+    "id": 196,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Woman): Are you going into the water, or are you just going to lie there on the sand?\n(Man): I think I need to put on some suntan lotion.\n(Narrator): Where does this conversation probably take place?",
+    "options": [
+      "At a beauty salon",
+      "At the beach",
+      "In a sandbox",
+      "At an outdoor restaurant"
+    ],
+    "correctIndex": 1,
+    "explanation": "القاعدة (Skill 6 - استنتاج مكان المحادثة Where): وجود القرائن (water - sand - suntan lotion) يدل على أن المكان هو شاطئ البحر (At the beach).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 6)"
+  },
+  {
+    "id": 197,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): Did Sally go to the bank this morning?\n(Woman): Yes, she did. She got a new checking account.\n(Narrator): What does the woman imply?",
+    "options": [
+      "Sally wrote several checks.",
+      "Sally wanted to check up on the bank.",
+      "A new checking account was opened.",
+      "Sally checked on the balance in her account."
+    ],
+    "correctIndex": 2,
+    "explanation": "القاعدة (Skill 7 - الاستنتاج بالمبني للمجهول Passive): قولها 'She got a new checking account' يعني بصيغة المبني للمجهول 'A new checking account was opened' (تم فتح حساب جاري جديد).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 7)"
+  },
+  {
+    "id": 198,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): Do you know who is in the band now?\n(Woman): I heard that Mara replaced Robert in the band.\n(Narrator): What does the woman say about the band?",
+    "options": [
+      "Robert became a new member of the band.",
+      "Robert took Mara's place in the band.",
+      "Mara did not have a place in the band.",
+      "Mara took Robert's place in the band."
+    ],
+    "correctIndex": 3,
+    "explanation": "القاعدة (Skill 8 - تعدد الأسماء والفاعل والمفعول): جملة 'Mara replaced Robert' تعني أن مارا حلت محل روبرت (Mara took Robert's place).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 8)"
+  },
+  {
+    "id": 199,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): How did they get to their grandmother's house in Maine in only five hours?\n(Woman): They did not drive slowly on the trip to Maine.\n(Narrator): What does the woman say about the trip?",
+    "options": [
+      "They drove rather quickly.",
+      "They could not have driven more slowly.",
+      "They wanted to travel slowly to Maine.",
+      "They did not drive to Maine."
+    ],
+    "correctIndex": 0,
+    "explanation": "القاعدة (Skill 9 - النفي بـ NOT): عبارة 'did not drive slowly' (لم يقودوا ببطء) تعني بالإثبات أنهم قادوا بسرعة (drove rather quickly).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 9)"
+  },
+  {
+    "id": 200,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): Did the supervisor like the preliminary report?\n(Woman): He was quite dissatisfied with the conclusions.\n(Narrator): What does the woman mean?",
+    "options": [
+      "The supervisor was pleased with the work.",
+      "The supervisor did not approve of the conclusions.",
+      "The supervisor asked for more copies.",
+      "The supervisor was satisfied with the report."
+    ],
+    "correctIndex": 1,
+    "explanation": "القاعدة (Skill 10 - بادئات النفي Negative Prefixes): كلمة 'dissatisfied' تحتوي على البادئة (dis-) وهي نفي لكلمة satisfied، وتعني 'did not approve' (لم يرضَ عن النتائج).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 10)"
+  },
+  {
+    "id": 201,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Woman): Were many people present at the emergency briefing?\n(Man): Nobody arrived on time for the meeting.\n(Narrator): What does the man imply?",
+    "options": [
+      "Every person was punctual.",
+      "Some attendees were early.",
+      "Everyone was late for the meeting.",
+      "The meeting was cancelled."
+    ],
+    "correctIndex": 2,
+    "explanation": "القاعدة (Skill 11 - كلمات النفي الأخرى مثل Nobody): عبارة 'Nobody arrived on time' (لا أحد وصل بالموعد) تفيد بالعكس الإيجابي أن الجميع تأخروا (Everyone was late).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 11)"
+  },
+  {
+    "id": 202,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): I can't believe the news that I heard about the concert.\n(Woman): Well, it isn't impossible for the concert to take place.\n(Narrator): What does the woman say about the concert?",
+    "options": [
+      "There is no possibility that the concert will take place.",
+      "The concert will definitely not take place.",
+      "The concert might take place.",
+      "The concert cannot take place."
+    ],
+    "correctIndex": 2,
+    "explanation": "القاعدة (Skill 12 - النفي المزدوج Double Negative): نفي النفي إثبات؛ عبارة 'isn't impossible' (ليس مستحيلاً) تعني أن هناك احتمالية لحدوث الحفل (The concert might take place).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 12)"
+  },
+  {
+    "id": 203,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Woman): Were you able to pay the electric bill?\n(Man): I had barely enough money.\n(Narrator): What does the man imply?",
+    "options": [
+      "He had plenty of money for the bill.",
+      "He did not have enough money for the bill.",
+      "He paid the bill but has almost no money left.",
+      "He was unable to pay the bill."
+    ],
+    "correctIndex": 2,
+    "explanation": "القاعدة (Skill 13 - كلمات شبه النفي Almost Negatives): كلمة 'barely' تعني بالكاد؛ أي أنه استطاع دفع الفاتورة ولكنه استنفد ماله تقريباً (paid the bill but has almost no money left).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 13)"
+  },
+  {
+    "id": 204,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Woman): What do you think of the new student in math class?\n(Man): No one is more intelligent than she is.\n(Narrator): What does the man say about the new student?",
+    "options": [
+      "She is not very smart.",
+      "He is smarter than she is.",
+      "Other students are smarter than she is.",
+      "She is the smartest student in the class."
+    ],
+    "correctIndex": 3,
+    "explanation": "القاعدة (Skill 14 - النفي مع صيغ المقارنة Negatives with Comparatives): عبارة 'No one is more intelligent than she is' (لا أحد أذكى منها) تعني صيغة التفضيل العليا: هي الأذكى في الصف (the smartest).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 14)"
+  },
+  {
+    "id": 205,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Woman): I don't think that our history teacher is very interesting.\n(Man): Neither do I.\n(Narrator): What does the man mean?",
+    "options": [
+      "He disagrees with the woman.",
+      "He thinks the history teacher is very interesting.",
+      "He shares the woman's opinion.",
+      "He does not think the woman's idea is good."
+    ],
+    "correctIndex": 2,
+    "explanation": "القاعدة (Skill 15 - تعابير الموافقة Expressions of Agreement): عبارة 'Neither do I' (ولا أنا) تعبر عن موافقة تامة على الرأي المنفي، أي أنه يشاركها نفس الرأي (shares the woman's opinion).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 15)"
+  },
+  {
+    "id": 206,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): Do you know anything about the final exam in physics?\n(Woman): It's going to be rather difficult, isn't it?\n(Narrator): What does the woman mean?",
+    "options": [
+      "The exam is not going to be too difficult.",
+      "She is positive that it is going to be hard.",
+      "She thinks that it might be hard.",
+      "She has no idea about the exam."
+    ],
+    "correctIndex": 2,
+    "explanation": "القاعدة (Skill 16 - تعابير عدم التأكد Expressions of Uncertainty): استخدام السؤال المذيل '..., isn't it?' يفيد الظن وعدم الجزم، أي أنها ترجح أنه قد يكون صعباً (thinks that it might be hard).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 16)"
+  },
+  {
+    "id": 207,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): I'll never have time to type my paper tomorrow.\n(Woman): Why not do it now?\n(Narrator): What does the woman suggest?",
+    "options": [
+      "Finishing the paper today.",
+      "Not working on the paper now.",
+      "Never typing the paper.",
+      "Taking time out from the paper now."
+    ],
+    "correctIndex": 0,
+    "explanation": "القاعدة (Skill 17 - أساليب الاقتراح Suggestions): صيغة 'Why not do it now?' هي اقتراح للبدء فوراً وإنجاز البحث اليوم بدلاً من تركه للغد (Finishing the paper today).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 17)"
+  },
+  {
+    "id": 208,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Woman): Did you see Paul driving around in his Mustang?\n(Man): Then, he did get a new car!\n(Narrator): What had the man thought?",
+    "options": [
+      "Paul would definitely get a Mustang.",
+      "Paul did not know how to drive.",
+      "Paul did not like Mustangs.",
+      "Paul would not get a new car."
+    ],
+    "correctIndex": 3,
+    "explanation": "القاعدة (Skill 18 - أسلوب التوكيد الدال على المفاجأة Emphatic Surprise): توكيد الفعل الماضي 'he did get...' يدل على أن المتحدث كان يظن العكس تماماً سابقاً، أي كان يعتقد أنه لن يشتري سيارة جديدة (Paul would not get a new car).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 18)"
+  },
+  {
+    "id": 209,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Woman): It's too bad that you have to stay here and work during the school break.\n(Man): Really, I wish I could go with you and the others to Palm Springs.\n(Narrator): What does the man mean?",
+    "options": [
+      "Maybe he will go with the others on the trip.",
+      "He is unable to go on the trip.",
+      "He's happy to be going on the trip.",
+      "He's going on the trip, but not with the others."
+    ],
+    "correctIndex": 1,
+    "explanation": "القاعدة (Skill 19 - صيغ التمني Wishes): التمني بـ 'I wish I could go' يشير إلى عكس الواقع الحالي، أي أنه غير قادر على الذهاب في الرحلة (He is unable to go on the trip).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 19)"
+  },
+  {
+    "id": 210,
+    "subject": "english",
+    "topic": "conversation",
+    "topicName": "المحادثة والوظائف اللغوية",
+    "question": "(Man): Do you think that you'll be able to go to the party?\n(Woman): If I had time, I would go.\n(Narrator): What does the woman say about the party?",
+    "options": [
+      "Maybe she will go.",
+      "She has time, so she will go.",
+      "She is going even if she doesn't have time.",
+      "It is impossible for her to go."
+    ],
+    "correctIndex": 3,
+    "explanation": "القاعدة (Skill 20 - الجمل الشرطية غير الحقيقية Untrue Conditions): الشرط الافتراضي في الماضي 'If I had time, I would go' يعني أنها لا تملك الوقت ولن تتمكن من الذهاب (It is impossible for her to go).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 20)"
+  },
+  {
+    "id": 211,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Man): What time does the board meeting start today?\n(Woman): Didn't you hear that it was called off by the director?\n(Narrator): What does the woman say about the meeting?",
+    "options": [
+      "The director called a new meeting.",
+      "The director phoned her about the meeting.",
+      "The director called the meeting to order.",
+      "The director canceled the meeting."
+    ],
+    "correctIndex": 3,
+    "explanation": "الفعل الاصطلاحي 'call off' يعني صراحة 'cancel' (يلغي).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 212,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Due to stormy weather, the administration decided to ______ the outdoor commencement ceremony until next week.",
+    "options": [
+      "put off",
+      "put on",
+      "put out",
+      "put up with"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل الاصطلاحي 'put off' يعني تأجيل (delay / postpone). أما 'put on' فتعني يرتدي، و'put up with' تعني يتحمل.",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 213,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Student A): How can you study in this noisy dormitory?\n(Student B): Honestly, I can hardly ______ all this constant disruption.\nWhat does Student B mean?",
+    "options": [
+      "He cannot tolerate the noise.",
+      "He enjoys listening to the noise.",
+      "He refuses to turn off the music.",
+      "He wants to join the disruption."
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل الاصطلاحي 'put up with' يعني يتحمل أو يصبر على (tolerate).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 214,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "The physician strongly advised the patient to ______ on high-calorie fatty foods to lower cholesterol.",
+    "options": [
+      "cut down",
+      "cut off",
+      "cut out of",
+      "cut across"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل الاصطلاحي 'cut down (on)' يعني يقلل أو يخفّض الاستهلاك (decrease).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 215,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Woman): Has the academic committee resolved the grading discrepancies?\n(Man): They are still looking into the matter.\nWhat are the committee members doing?",
+    "options": [
+      "They are ignoring the problem.",
+      "They are investigating the problem.",
+      "They are looking at the paper briefly.",
+      "They are looking after the students."
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل الاصطلاحي 'look into' يعني يحقق أو يستقصي الأمر (investigate).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 216,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Sara and her new laboratory partner ______ very well, which makes teamwork productive and enjoyable.",
+    "options": [
+      "get over",
+      "get along",
+      "get rid of",
+      "get back at"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل الاصطلاحي 'get along' يعني ينسجم ويكون ودوداً ومتفاهماً (be friendly / have a good relationship).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 217,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Man): Can I print twenty copies of the exam sheet?\n(Woman): Unfortunately, we just ______ paper in the printer tray.",
+    "options": [
+      "ran into",
+      "ran out of",
+      "ran away with",
+      "ran through"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل الاصطلاحي 'run out of' يعني نفد أو فرغت الكمية بالكامل (completely exhaust the supply).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 218,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "It took the researcher several weeks to completely ______ the severe respiratory infection.",
+    "options": [
+      "get ahead",
+      "get over",
+      "get by",
+      "get at"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل الاصطلاحي 'get over' يعني يتعافى من مرض أو يتغلب على صعوبة (recover from).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 219,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Woman): Did Professor Adams accept the prestigious visiting professorship?\n(Man): Surprisingly, he decided to turn it down.\nWhat did Professor Adams do?",
+    "options": [
+      "He accepted the offer immediately.",
+      "He postponed his decision.",
+      "He refused the offer.",
+      "He negotiated a higher salary."
+    ],
+    "correctIndex": 2,
+    "explanation": "الفعل الاصطلاحي 'turn down' يعني يرفض (refuse / reject).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 220,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "While conducting research in the university archives, Ali ______ a rare handwritten manuscript from 1920.",
+    "options": [
+      "came across",
+      "came down with",
+      "came up with",
+      "came around"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل الاصطلاحي 'come across' يعني يصادف أو يعثر على شيء صدفة دون تخطيط (unexpectedly find).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 221,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Before sitting for the national English proficiency exam, applicants are advised to ______ basic grammatical structures.",
+    "options": [
+      "brush it off",
+      "brush up on",
+      "break off",
+      "burn out"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل الاصطلاحي 'brush up on' يعني يراجع وينعش ذاكرته في موضوع ما (review / relearn).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 222,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Despite the temporary power outage in the building, the laboratory team was able to ______ with their experiments using backup generators.",
+    "options": [
+      "carry on",
+      "carry out of",
+      "call off",
+      "cut off"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل الاصطلاحي 'carry on' يعني يستمر أو يواصل العمل (continue).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 223,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "When Dr. Huda travels to international scientific conferences, her senior assistant ______ the department's day-to-day operations.",
+    "options": [
+      "looks into",
+      "looks after",
+      "looks down on",
+      "looks over"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل الاصطلاحي 'look after' يعني يعتني بـ أو يتولى رعاية وإدارة (take care of).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 224,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "The computer department decided to ______ all outdated CRT monitors and replace them with energy-efficient LED screens.",
+    "options": [
+      "get ahead of",
+      "get rid of",
+      "get back to",
+      "get through"
+    ],
+    "correctIndex": 1,
+    "explanation": "الفعل الاصطلاحي 'get rid of' يعني يتخلص من أو يستغني عن (throw away / discard).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 225,
+    "subject": "english",
+    "topic": "phrasal_verbs",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Burglars managed to ______ the electronic warehouse during midnight and stole twenty laptops.",
+    "options": [
+      "break into",
+      "break off",
+      "break down",
+      "break out"
+    ],
+    "correctIndex": 0,
+    "explanation": "الفعل الاصطلاحي 'break into' يعني يقتحم مكاناً عنوة وبشكل غير قانوني (unlawfully enter).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Phrasal Verbs Table)"
+  },
+  {
+    "id": 226,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Professor): Your analysis of the economic crisis really hit the nail on the head.\nWhat does the professor mean?",
+    "options": [
+      "The student damaged a tool in the workshop.",
+      "The student's explanation was exactly right.",
+      "The student made a painful mistake.",
+      "The student should redo the entire assignment."
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير الاصطلاحي 'hit the nail on the head' يعني أصاب كبد الحقيقة وكان كلامه دقيقاً وصحيحاً تماماً (were exactly right).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 227,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Man): How did you find the statistics exam this morning?\n(Woman): To be honest, it was a piece of cake!\nWhat does the woman mean?",
+    "options": [
+      "The exam was extremely difficult.",
+      "The exam involved baking problems.",
+      "The exam was extremely easy.",
+      "She did not finish the exam in time."
+    ],
+    "correctIndex": 2,
+    "explanation": "التعبير الاصطلاحي 'a piece of cake' يعني أمراً سهلاً وبسيطاً للغاية (be extremely easy).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 228,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "When facing a complex engineering puzzle, the engineers agreed that 'two heads are better than one'. This expression means:",
+    "options": [
+      "Individual work is superior to collaboration.",
+      "It is beneficial to work and collaborate together.",
+      "Physical strength is more important than intelligence.",
+      "Two managers should lead every company."
+    ],
+    "correctIndex": 1,
+    "explanation": "المثل الاصطلاحي 'two heads are better than one' يعني أن العمل الجماعي وتبادل الآراء أفضل من العمل المنفرد (It's good to work together).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 229,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Even though Layla lost her job, she soon founded a prosperous business, proving that 'every cloud has a silver lining'. What does this idiom convey?",
+    "options": [
+      "Weather conditions affect business performance.",
+      "Bad situations are often accompanied by positive outcomes.",
+      "Clouds always bring rain and thunderstorms.",
+      "One should avoid taking financial risks."
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير الاصطلاحي 'every cloud has a silver lining' يعني رب ضارة نافعة، وأن المصاعب يرافقها دائماً جانب إيجابي (Bad things are accompanied by good).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 230,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Advisor): The scholarship deadline is approaching and funding is currently open; you should strike while the iron is hot.\nWhat does the advisor suggest?",
+    "options": [
+      "Wait until next year to apply.",
+      "Take advantage of a favorable opportunity immediately.",
+      "Avoid applying for competitive grants.",
+      "Work with metal fabrication tools."
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير الاصطلاحي 'strike while the iron is hot' يعني اغتنام الفرصة فوراً وفي الوقت المناسب (take advantage of a good opportunity).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 231,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "After overcoming academic probation, Ahmed decided to ______ by attending all lectures and submitting assignments early.",
+    "options": [
+      "turn over a new leaf",
+      "hear a pin drop",
+      "jump into the fire",
+      "sink his teeth"
+    ],
+    "correctIndex": 0,
+    "explanation": "التعبير الاصطلاحي 'turn over a new leaf' يعني يبدأ صفحة جديدة وسلوكاً أفضل (start over again with better behavior).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 232,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Colleague A): I am planning to buy a sports car with my bonus check next month.\n(Colleague B): Don't count your chickens before they are hatched!\nWhat is Colleague B cautioning against?",
+    "options": [
+      "Eating unhealthy poultry products.",
+      "Depending on future gains that are not yet certain.",
+      "Saving money in retirement accounts.",
+      "Purchasing expensive vehicles."
+    ],
+    "correctIndex": 1,
+    "explanation": "المثل الاصطلاحي 'Don't count your chickens before they are hatched' يحذر من الاعتماد على مكاسب مستقبلية لم تتحقق بعد (Don't depend on something you don't have yet).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 233,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Before investing all your savings into an unverified startup company, you should ______.",
+    "options": [
+      "look before you leap",
+      "let sleeping dogs lie",
+      "count your chickens",
+      "run like a headless chicken"
+    ],
+    "correctIndex": 0,
+    "explanation": "المثل 'look before you leap' يعني فكر ودقق جيداً قبل الإقدام على أي خطوة أو مجازفة (think before you act).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 234,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "When the dean stepped up to announce the recipient of the prestigious graduate medal, 'you could have heard a pin drop'. This implies that:",
+    "options": [
+      "The auditorium was chaotic and noisy.",
+      "Someone accidentally dropped metallic tools.",
+      "The audience was completely quiet and attentive.",
+      "The microphone system stopped functioning."
+    ],
+    "correctIndex": 2,
+    "explanation": "التعبير الاصطلاحي 'you could have heard a pin drop' يعني أن الصالة كانت في حالة صمت وهدوء تام وترقب (It was really quiet).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 235,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Employee): Should we bring up last year's departmental budget dispute at the general assembly?\n(Manager): No, it's better to let sleeping dogs lie.\nWhat does the manager advise?",
+    "options": [
+      "Investigate the budget dispute immediately.",
+      "Avoid raising an old conflict that could cause trouble.",
+      "Adopt pets for the corporate office.",
+      "Schedule an audit for last year's accounts."
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير الاصطلاحي 'let sleeping dogs lie' يعني دع الأمور المستقرة وشأنها وتجنب إثارة مشاكل سابقة (leave something alone / avoid reviving trouble).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 236,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Researcher A): How is the experimental trials phase proceeding?\n(Researcher B): So far, so good.\nWhat does Researcher B mean?",
+    "options": [
+      "The trials have completely failed.",
+      "Everything has been going well up to the present moment.",
+      "The laboratory needs more chemical reagents.",
+      "They will terminate the experiment today."
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير الاصطلاحي 'so far, so good' يعني أن كل شيء يسير على ما يرام حتى الوقت الحاضر (It has been going well up to now).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 237,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Upon completing his doctoral studies, Omar wants to 'stand on his own two feet' by establishing an independent laboratory. This means he wants to:",
+    "options": [
+      "Avoid working in seated positions.",
+      "Be independent and self-reliant.",
+      "Rely entirely on government subsidies.",
+      "Seek financial support from his parents."
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير الاصطلاحي 'stand on one's own two feet' يعني يعتمد على نفسه ويكون مستقلاً ذاتياً (do it myself / be independent).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 238,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Before final submission of the dissertation, the supervisor urged the candidate to 'dot all the i's and cross all the t's'. This means:",
+    "options": [
+      "Change the document's font style.",
+      "Pay meticulous attention to every single detail.",
+      "Delete unnecessary chapters.",
+      "Add illustrations to every page."
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير الاصطلاحي 'dot all the i's and cross all the t's' يعني التدقيق الشديد والاهتمام بكل التفاصيل الصغيرة (pay attention to every detail).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 239,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "(Mentor): Don't be discouraged if your laboratory results take months; Rome wasn't built in a day.\nWhat principle is the mentor emphasizing?",
+    "options": [
+      "Italian architecture requires ancient stones.",
+      "Significant achievements require patience and continuous effort over time.",
+      "Research should be completed within twenty-four hours.",
+      "Historical studies are easier than scientific experiments."
+    ],
+    "correctIndex": 1,
+    "explanation": "المثل 'Rome wasn't built in a day' يؤكد أن الأعمال العظيمة تتطلب وقتاً وصبراً ولا تتحقق بين عشية وضحاها (Everything takes time).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  },
+  {
+    "id": 240,
+    "subject": "english",
+    "topic": "idioms",
+    "topicName": "الأفعال والتعابير الاصطلاحية",
+    "question": "Resigning from a stressful job only to join a company on the verge of bankruptcy is like 'jumping out of the frying pan and into the fire'. This idiom means:",
+    "options": [
+      "Escaping danger successfully.",
+      "Moving from a bad situation to an even worse one.",
+      "Learning culinary cooking techniques.",
+      "Improving one's career prospects."
+    ],
+    "correctIndex": 1,
+    "explanation": "التعبير الاصطلاحي 'jumping out of the frying pan into the fire' يعني الانتقال من وضع سيئ إلى وضع أشد سوءاً (going from bad to worse).",
+    "source": "دليل كورس المحادثة لاختبار الوطني الموحد - ست هدى (Skill 23 Idioms)"
+  }
+]

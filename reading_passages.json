@@ -1,0 +1,1169 @@
+[
+  {
+    "id": "robots",
+    "titleEn": "Robots: History and the Future",
+    "titleAr": "الروبوتات: التاريخ والمستقبل",
+    "category": "Science & Technology",
+    "categoryAr": "علوم وتكنولوجيا",
+    "estimatedMinutes": 12,
+    "source": "ملزمة أسئلة الامتحان الوطني - أ. سماح الكعبي (صفحة 27-29)",
+    "englishText": "A robot is a machine. But it is not just any machine. It is a special kind of machine. It is a machine that moves. It follows instructions. The instructions come from a computer. Because it is a machine, it does not make mistakes. And it does not get tired. And it never complains. Unless you tell it to! Robots are all around us.\n\nSome robots are used to make things. For example, robots can help make cars. Some robots are used to explore dangerous places. For example, robots can help explore volcanoes. Some robots are used to clean things. These robots can help vacuum your house. Some robots can even recognize words. They can be used to help answer telephone calls. Some robots look like humans. But most robots do not. Most robots just look like machines.\n\nLong ago, people imagined robots. Over 2,000 years ago, a famous poet imagined robots. The poet's name was Homer. His robots were made of gold. They cleaned things and they made things. But they were not real. They were imaginary. Nobody was able to make a real robot.\n\nThe first real robot was made in 1961. It was called Unimate. It was used to help make cars. It looked like a giant arm. In the future, we will have even more robots. They will do things that we can't do. Or they will do things that we don't want to do. Or they will do things that are too dangerous for us. Robots will help us fight fires. They will help us fight wars. They will help us fight sickness. They will help us discover things. They will help make life better.",
+    "arabicTranslation": "الروبوت هو آلة، ولكنه ليس مجرد أي آلة؛ إنه نوع خاص من الآلات. إنه آلة تتحرك وتتبع التعليمات الصادرة من جهاز كمبيوتر. ولأنه آلة، فإنه لا يرتكب أخطاء، ولا يتعب، ولا يشتكي أبداً إلا إذا أمرته بذلك! الروبوتات تحيط بنا في كل مكان اليوم.\n\nتُستخدم بعض الروبوتات لصناعة الأشياء، مثل المساعدة في تصنيع السيارات. وتُستخدم روبوتات أخرى لاستكشاف الأماكن الخطرة كالبراكين. كما تُستخدم روبوتات في التنظيف، مثل المكانس الآلية في المنازل. ويمكن لبعض الروبوتات التعرف على الكلمات والرد على المكالمات الهاتفية. وبعضها يشبه البشر، لكن معظمها يبدو كآلات صناعية.\n\nمنذ زمن بعيد، تخيل البشر الروبوتات. قبل أكثر من 2000 عام، تخيل الشاعر الشهير (هوميروس) روبوتات مصنوعة من الذهب كانت تنظف وتصنع الأشياء، لكنها كانت خيالية ولم يتمكن أحد حينها من صنع روبوت حقيقي.\n\nتم صنع أول روبوت حقيقي عام 1961 وكان يُدعى (يونيميت - Unimate). واستُخدم للمساعدة في صناعة السيارات، وكان يشبه ذراعاً عملاقة. وفي المستقبل، سيكون لدينا المزيد من الروبوتات لإنجاز ما نعجز عنه أو ما لا نرغب بفعله أو ما هو شديد الخطورة علينا. ستساعدنا الروبوتات في مكافحة الحرائق، خوض الحروب، محاربة الأمراض، واكتشاف أشياء جديدة، مما يجعل الحياة أفضل وأيسر.",
+    "questions": [
+      {
+        "id": 1,
+        "questionEn": "Why doesn't a robot make mistakes according to the passage?",
+        "questionAr": "لماذا لا يرتكب الروبوت أخطاء وفقاً للقطعة؟",
+        "options": [
+          "It is perfect",
+          "It follows instructions from a computer",
+          "It is made of gold",
+          "It has human-like intelligence"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص صراحة: 'It follows instructions. The instructions come from a computer. Because it is a machine, it does not make mistakes.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 2,
+        "questionEn": "What is one advantage of robots mentioned in the passage?",
+        "questionAr": "ما هي إحدى ميزات الروبوتات المذكورة في النص؟",
+        "options": [
+          "They make mistakes",
+          "They get tired easily",
+          "They complain often",
+          "They never complain"
+        ],
+        "correctIndex": 3,
+        "explanation": "ورد في القطعة: 'And it does not get tired. And it never complains. Unless you tell it to!' أي أنها لا تتذمر أبداً.",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 3,
+        "questionEn": "When was the first real robot, Unimate, made?",
+        "questionAr": "متى تم صنع أول روبوت حقيقي (يونيميت)؟",
+        "options": [
+          "1961",
+          "1800",
+          "1000 BC",
+          "1980"
+        ],
+        "correctIndex": 0,
+        "explanation": "ورد في النص: 'The first real robot was made in 1961. It was called Unimate.'",
+        "passageReference": "الفقرة الرابعة"
+      },
+      {
+        "id": 4,
+        "questionEn": "What will future robots help us with according to the passage?",
+        "questionAr": "بماذا ستساعدنا روبوتات المستقبل وفقاً للنص؟",
+        "options": [
+          "Making mistakes in factories",
+          "Doing things we already love to do",
+          "Making our lives worse",
+          "Fight fires and sickness"
+        ],
+        "correctIndex": 3,
+        "explanation": "ذكر النص: 'Robots will help us fight fires. They will help us fight wars. They will help us fight sickness.'",
+        "passageReference": "الفقرة الرابعة"
+      },
+      {
+        "id": 5,
+        "questionEn": "What is a robot according to the passage?",
+        "questionAr": "ما هو الروبوت وفقاً للنص؟",
+        "options": [
+          "A simple toy",
+          "A machine that follows instructions and moves",
+          "A machine that makes mistakes",
+          "A machine that gets tired easily"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكرت الفقرة الأولى: 'It is a machine that moves. It follows instructions.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 6,
+        "questionEn": "Where do the instructions for robots come from?",
+        "questionAr": "من أين تأتي التعليمات للروبوتات؟",
+        "options": [
+          "Humans directly without code",
+          "A computer",
+          "Nature",
+          "The weather"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد نصاً: 'The instructions come from a computer.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 7,
+        "questionEn": "What was Unimate used for?",
+        "questionAr": "فيمَ استُخدم روبوت يونيميت؟",
+        "options": [
+          "Exploring volcanoes",
+          "Answering telephone calls",
+          "Making cars",
+          "Cleaning houses"
+        ],
+        "correctIndex": 2,
+        "explanation": "ورد نصاً: 'It was called Unimate. It was used to help make cars.'",
+        "passageReference": "الفقرة الرابعة"
+      },
+      {
+        "id": 8,
+        "questionEn": "Who imagined robots over 2,000 years ago?",
+        "questionAr": "من تخيل الروبوتات قبل أكثر من 2000 عام؟",
+        "options": [
+          "William Shakespeare",
+          "Homer",
+          "Albert Einstein",
+          "Leonardo da Vinci"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد في النص: 'Over 2,000 years ago, a famous poet imagined robots. The poet's name was Homer.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 9,
+        "questionEn": "What is the main future purpose of robots mentioned in the passage?",
+        "questionAr": "ما الهدف الرئيسي المذكور للروبوتات مستقبلاً؟",
+        "options": [
+          "Make life harder",
+          "Make mistakes",
+          "Make life better",
+          "Create chaos"
+        ],
+        "correctIndex": 2,
+        "explanation": "ورد في ختام النص: 'They will help us discover things. They will help make life better.'",
+        "passageReference": "الفقرة الرابعة"
+      },
+      {
+        "id": 10,
+        "questionEn": "What did Homer's imaginary robots do?",
+        "questionAr": "ماذا كانت تفعل روبوتات هوميروس الخيالية؟",
+        "options": [
+          "Fight wars",
+          "Clean things and make things",
+          "Answer telephone calls",
+          "Help explore volcanoes"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد في النص: 'His robots were made of gold. They cleaned things and they made things.'",
+        "passageReference": "الفقرة الثالثة"
+      }
+    ]
+  },
+  {
+    "id": "oil_painting",
+    "titleEn": "Oil Painting & Jan van Eyck",
+    "titleAr": "فن الطلاء الزيتي وتكنيك الطبقات",
+    "category": "Art & History",
+    "categoryAr": "فن وتاريخ",
+    "estimatedMinutes": 10,
+    "source": "ملزمة أسئلة الامتحان الوطني - أ. سماح الكعبي (صفحة 43-44)",
+    "englishText": "When an artist paints, he or she can choose from so many types of paint! One paint type that has been used for thousands of years is oil paint. To make oil paint, a person combines dry colored powder with oil. When an artist mixes the oil and powder together, he or she creates a smooth paint.\n\nA long time ago, people loved to create oil paintings. They would get the oil from walnuts or poppies (red flowers). A lot of artists would use oil paint to paint many layers on a single painting. These layers created different shades of color. They helped create light and shadows in the painting. The layers also would make the people and things in the painting look more real.\n\nOne famous painter from long ago was Jan van Eyck. He used oil paints for his paintings. He would paint in layers. Because of his technique, his paintings are often filled with beautiful, bright colors. Today, artists do not use oil paints as much. One popular type of paint artists use is acrylic paint. Acrylic paints dry quicker and can be painted over more easily. You can find different types of paint in your local craft store. Take a look at an oil painting. Maybe the painting has shadows made by oil paint.",
+    "arabicTranslation": "عندما يرسم الفنان، يمكنه الاختيار من بين أنواع عديدة ومختلفة من الطلاء! ومن بين هذه الأنواع التي استُخدمت لآلاف السنين هو (الطلاء الزيتي). ولصنع الطلاء الزيتي، يقوم الشخص بدمج مسحوق ملون جاف مع الزيت. وعندما يخلط الفنان الزيت والمسحوق معاً، ينتج طلاءً ناعماً ومتجانساً.\n\nمنذ زمن طويل، أحب الناس ابتكار اللوحات الزيتية. وكانوا يستخرجون الزيت من الجوز أو الخشخاش (الزهور الحمراء). واستخدم العديد من الفنانين الطلاء الزيتي لتطبيق طبقات متعددة على اللوحة الواحدة؛ حيث صنعت هذه الطبقات تدرجات وظلالاً لونية مختلفة، وساعدت في إضفاء النور والظلال وجعل الأشخاص والمشاهد تبدو أكثر واقعية وحياة.\n\nكان (يان فان آيك - Jan van Eyck) أحد الرسامين المشهورين الذين اعتمدوا الطلاء الزيتي والرسم في طبقات. وبفضل تقنيته هذه، امتلأت لوحاته بألوان زاهية وساحرة. أما اليوم، فلا يستخدم الفنانون الطلاء الزيتي بنفس الكثرة، حيث انتشر طلاء (الأكريليك) الذي يجف بسرعة أكبر ويسهل الرسم فوقه مجدداً.",
+    "questions": [
+      {
+        "id": 1,
+        "questionEn": "Who was a famous painter known for using oil paints and painting in layers?",
+        "questionAr": "من هو الرسام الشهير المعروف باستخدامه للطلاء الزيتي والرسم في طبقات متتالية؟",
+        "options": [
+          "Pablo Picasso",
+          "Jan van Eyck",
+          "Leonardo da Vinci",
+          "Vincent van Gogh"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'One famous painter from long ago was Jan van Eyck. He used oil paints for his paintings. He would paint in layers.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 2,
+        "questionEn": "What do artists combine to make oil paint?",
+        "questionAr": "ماذا يمزج الفنانون لصنع الطلاء الزيتي؟",
+        "options": [
+          "Dirt and dry colored powder",
+          "Flower petals and water",
+          "Dry colored powder and oil",
+          "Oil and liquid dye"
+        ],
+        "correctIndex": 2,
+        "explanation": "ذكر النص: 'To make oil paint, a person combines dry colored powder with oil.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 3,
+        "questionEn": "How does the author describe the effects of using oil paint in layers?",
+        "questionAr": "كيف يصف الكاتب تأثير استخدام الطلاء الزيتي على شكل طبقات متعددة؟",
+        "options": [
+          "It was used in layers so artists could create different shades of color and shadows",
+          "Artists used it to make sculptures look more realistic",
+          "Artists did not understand how to use it correctly until modern times",
+          "It caused the paintings to fade quickly"
+        ],
+        "correctIndex": 0,
+        "explanation": "ورد في النص: 'These layers created different shades of color. They helped create light and shadows in the painting.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 4,
+        "questionEn": "What kind of artists would have preferred using oil paints according to paragraph 2?",
+        "questionAr": "أي نوع من الفنانين كان يفضل استخدام الطلاء الزيتي وفقاً للفقرة الثانية؟",
+        "options": [
+          "Artists who did not care about realism",
+          "Artists who wanted to make real-looking paintings with light and shadows",
+          "Artists who only made quick digital sketches",
+          "Artists who wanted their paintings to look completely flat"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكرت الفقرة الثانية: 'The layers also would make the people and things in the painting look more real.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 5,
+        "questionEn": "Why do artists use oil paint less today compared to acrylics?",
+        "questionAr": "لماذا يستخدم الفنانون الطلاء الزيتي بشكل أقل اليوم مقارنة بالأكريليك؟",
+        "options": [
+          "Because oil paint dries too quickly",
+          "Because oil paint is harder to buy",
+          "Because acrylic paints dry quicker and can be painted over more easily",
+          "Because oil paint was banned by art schools"
+        ],
+        "correctIndex": 2,
+        "explanation": "ذكر النص: 'Acrylic paints dry quicker and can be painted over more easily.' والطلاء الزيتي يجف ببطء شديد ويصعب التعديل فوقه.",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 6,
+        "questionEn": "What is the main idea of this passage?",
+        "questionAr": "ما هي الفكرة الرئيسية الشاملة لهذه القطعة؟",
+        "options": [
+          "Oil paint is one popular kind of paint with a rich history and unique layering qualities",
+          "People only made paint using poppies and red flowers",
+          "Acrylic paint is the only valid paint available today",
+          "Jan van Eyck was an acrylic painter"
+        ],
+        "correctIndex": 0,
+        "explanation": "الفكرة العامة تتمحور حول تعريف الطلاء الزيتي، طريقة صنعه، تاريخه، استخدامه بالطبقات، ومقارنته بالأكريليك الحديث.",
+        "passageReference": "الفكرة الشاملة للنص"
+      }
+    ]
+  },
+  {
+    "id": "wellderly",
+    "titleEn": "The Wellderly: Secrets of Long and Healthy Life",
+    "titleAr": "المعمرون الأصحاء (Wellderly) وأسرار طول العمر",
+    "category": "Health & Genetics",
+    "categoryAr": "صحة وعلم جينات",
+    "estimatedMinutes": 15,
+    "source": "ملزمة أسئلة الامتحان الوطني - أ. سماح الكعبي (صفحة 47-48)",
+    "englishText": "A baby born today could live to be not only 100, but even 120 years old. Hard to believe? Apparently, there could be a gene for not only long life, but long and healthy life. Even today, there are many, many people who have passed the landmark age of 100 – an age that seemed an impossible achievement only a few decades ago.\n\nIn fact, there are now so many healthy, elderly people that a new term has been coined: the wellderly. These are people over the age of 80 who have no chronic diseases such as high blood pressure, coronary disease or diabetes and who have never taken medication for these conditions.\n\nThe small village of Molochio in Calabria numbers about 2,000 inhabitants. And of these, there are at least eight centenarians. When researchers ask people like this what the secret of their long life is, the answer is invariably to do with diet and is almost always the same: \"I eat a lot of fruit and vegetables.\" \"A little bit, but of everything.\" \"No smoking, no drinking.\"\n\nNew research into long life, looking at groups of people who have a genetic connection, has taken scientists to Ecuador. In one small region there are a number of people with a genetic condition called Laron syndrome. The main effect of this condition is to restrict the individual's growth to little more than a metre, but it also seems to protect them against both cancer and diabetes. Ultimately, those with Laron's syndrome live longer than the rest of their families.\n\nMeanwhile, on the Hawaiian island of Oahu, there's a completely separate group of Japanese-American men who are particularly long-lived. And it turns out that they have a variant of the same gene as the Laron syndrome group. So what really makes people live longer? It seems likely that it is an interaction of genes, the environment and ultimately a third factor beyond our control – luck.",
+    "arabicTranslation": "قد يعيش الطفل المولود اليوم ليس فقط حتى سن 100 عام، بل ربما يبلغ 120 عاماً! هل تصدق ذلك؟ يبدو أن هناك جيناً وراثياً ليس فقط لطول العمر، بل لحياة مديدة وصحية. واليوم، هناك الكثير من الأشخاص الذين تجاوزوا حاجز الـ 100 عام، وهو عمر كان يُعتبر إنجازاً شبه مستحيل قبل عقود قليلة.\n\nفي الواقع، هناك الآن أعداد كبيرة من كبار السن الأصحاء لدرجة أنه تم ابتكار مصطلح جديد لهم: (the wellderly - المعمرون الأصحاء). وهم أشخاص تجاوزت أعمارهم 80 عاماً دون أن يعانوا من أي أمراض مزمنة كارتفاع ضغط الدم، أمراض الشرايين التاجية، أو السكري، ولم يتناولوا أدوية لهذه الحالات أبداً.\n\nتضم قرية (مولوتشيو - Molochio) الصغيرة في منطقة كالابريا بإيطاليا حوالي 2000 نسمة، ومن بينهم 8 أشخاص على الأقل بلغوا المئة عام (centenarians). وحين يسألهم الباحثون عن سر طول أعمارهم، ترتبط الإجابة دوماً بالنظام الغذائي: \"آكل الكثير من الفواكه والخضروات\"، \"القليل من كل شيء\"، و\"لا تدخين ولا كحول\".\n\nوقد قادت الأبحاث الجينية العلماء إلى الإكوادور، حيث يوجد أشخاص مصابون بمتلازمة (لارون - Laron syndrome). وأهم تأثير لها هو قصر القامة (لا يزيد طولهم عن متر تقريباً)، لكنها تحميهم بشكل مذهل من السرطان والسكري، ويعيشون أطول من سائر أفراد عائلاتهم. وفي جزيرة أواهو بهاواي، توجد مجموعة من الرجال اليابانيين الأمريكيين المعمرين يمتلكون طفرة في نفس الجين.\n\nإذن ما الذي يجعل الإنسان يعيش أطول حقاً؟ يبدو أنه تفاعل معقد بين الجينات، البيئة ونمط الحياة، وعامل ثالث خارج عن سيطرتنا وهو: الحظ.",
+    "questions": [
+      {
+        "id": 1,
+        "questionEn": "According to the passage, a baby born today could potentially live to be how old?",
+        "questionAr": "وفقاً للنص، كم قد يبلغ عمر الطفل المولود اليوم؟",
+        "options": [
+          "80 years old",
+          "100 to 120 years old",
+          "150 years old",
+          "200 years old"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد في أول جملة: 'A baby born today could live to be not only 100, but even 120 years old.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 2,
+        "questionEn": "Where is the village of Molochio located?",
+        "questionAr": "أين تقع قرية مولوتشيو المذكورة في النص؟",
+        "options": [
+          "Ecuador",
+          "Hawaii",
+          "Calabria (Italy)",
+          "Japan"
+        ],
+        "correctIndex": 2,
+        "explanation": "ورد نصاً: 'The small village of Molochio in Calabria numbers about 2,000 inhabitants.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 3,
+        "questionEn": "What characterizes 'the wellderly' according to the passage?",
+        "questionAr": "ما الذي يميز مصطلح 'المعمرون الأصحاء' (the wellderly)؟",
+        "options": [
+          "People over 80 who have chronic diseases",
+          "People over 80 who take daily prescription drugs",
+          "People over the age of 80 with no chronic diseases and who never took medication for them",
+          "Young athletes under 30"
+        ],
+        "correctIndex": 2,
+        "explanation": "ورد نصاً: 'These are people over the age of 80 who have no chronic diseases such as high blood pressure, coronary disease or diabetes and who have never taken medication for these conditions.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 4,
+        "questionEn": "According to the passage, what dietary secret was common among centenarians in Molochio?",
+        "questionAr": "ما هو السر الغذائي المشترك بين المعمرين في قرية مولوتشيو؟",
+        "options": [
+          "A diet rich in red meat and dairy",
+          "Eating a lot of fruit and vegetables, a little of everything, no smoking or drinking",
+          "A diet rich in fast food and sugars",
+          "Skipping meals completely"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'I eat a lot of fruit and vegetables. A little bit, but of everything. No smoking, no drinking.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 5,
+        "questionEn": "What protective advantage does Laron syndrome provide to affected individuals in Ecuador?",
+        "questionAr": "ما هي الميزة الوقائية التي توفرها متلازمة لارون للأشخاص في الإكوادور؟",
+        "options": [
+          "It makes them taller than two meters",
+          "It protects them against both cancer and diabetes",
+          "It cures all viral infections",
+          "It improves their vision at night"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد في النص: 'it also seems to protect them against both cancer and diabetes. Ultimately, those with Laron's syndrome live longer...'",
+        "passageReference": "الفقرة الرابعة"
+      },
+      {
+        "id": 6,
+        "questionEn": "According to the passage, what is the third factor beyond our control that contributes to longevity?",
+        "questionAr": "ما هو العامل الثالث الخارج عن إرادتنا وسيطرتنا الذي يسهم في طول العمر؟",
+        "options": [
+          "Education",
+          "Wealth",
+          "Luck",
+          "Exercise"
+        ],
+        "correctIndex": 2,
+        "explanation": "ذكر النص في الختام: 'a third factor beyond our control – luck.'",
+        "passageReference": "الفقرة الأخيرة"
+      },
+      {
+        "id": 7,
+        "questionEn": "How many centenarians live in the village of Molochio among its 2,000 inhabitants?",
+        "questionAr": "كم عدد المعمرين (فوق 100 عام) في قرية مولوتشيو من بين 2000 ساكن؟",
+        "options": [
+          "At least eight (8)",
+          "Only two (2)",
+          "Twenty (20)",
+          "Fifty (50)"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص: 'And of these, there are at least eight centenarians.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 8,
+        "questionEn": "What group on the Hawaiian island of Oahu shares a similar genetic variant?",
+        "questionAr": "أي فئة في جزيرة أواهو بهاواي تشترك في طفرة جينية مشابهة؟",
+        "options": [
+          "Japanese-American men who are particularly long-lived",
+          "European tourists",
+          "Teenage athletes",
+          "Fishermen from Alaska"
+        ],
+        "correctIndex": 0,
+        "explanation": "ورد في النص: 'there's a completely separate group of Japanese-American men who are particularly long-lived.'",
+        "passageReference": "الفقرة الأخيرة"
+      },
+      {
+        "id": 9,
+        "questionEn": "The passage concludes that long life is an interaction between:",
+        "questionAr": "تخلص القطعة إلى أن سر طول العمر هو تفاعل بين:",
+        "options": [
+          "Diet and exercise only",
+          "Genes, the environment, and luck",
+          "Hospitals and expensive medicines",
+          "Age and climate alone"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكرت الجملة الأخيرة: 'It seems likely that it is an interaction of genes, the environment and ultimately a third factor beyond our control – luck.'",
+        "passageReference": "الفقرة الأخيرة"
+      }
+    ]
+  },
+  {
+    "id": "basketball",
+    "titleEn": "The Invention of Basketball: James Naismith",
+    "titleAr": "قصة اختراع كرة السلة: جيمس نايسميث 1891",
+    "category": "Sports & History",
+    "categoryAr": "رياضة وتاريخ",
+    "estimatedMinutes": 10,
+    "source": "ملزمة أسئلة الامتحان الوطني - أ. سماح الكعبي (صفحة 45-46)",
+    "englishText": "It was December in 1891. A man named James Naismith had a problem to solve. He was a gym teacher at a school in Massachusetts. He was trying to figure out how to keep his students fit during the long winter.\n\nHe knew he had to find a game to keep his students active. And he knew it had to be played indoors. He did not want the game to be too rough. And people had to be able to play it in a walled-in gym.\n\nJames thought about some ideas. He threw some ideas out. Finally, he thought of a solution. He wrote down a set of rules. Then, he took a basket meant to hold peaches. He nailed it to a track ten feet high.\n\nHis students would try to throw a ball into the basket. They used a soccer ball. When someone got the ball in a basket, they won a point for their team. But the peach basket had a bottom. So someone had to poke the ball out of the basket every time that happened.\n\nThis was how the sport basketball was invented. Over time, new rules were added. The ball changed from a soccer ball to a brown ball. Eventually, it became an orange rubber ball. The basket became a net. The courts where the game was played got bigger. Today, basketball is a popular sport in the U.S. and in places around the world!",
+    "arabicTranslation": "كان ذلك في شهر كانون الأول (ديسمبر) عام 1891. كان لدى رجل يُدعى (جيمس نايسميث - James Naismith) مشكلة تتطلب حلاً؛ إذ كان معلماً للتربية البدنية في إحدى مدارس ولاية ماساتشوستس الأمريكية، وكان يبحث عن طريقة للحفاظ على لياقة طلابه ونشاطهم خلال فصل الشتاء الطويل والبارد.\n\nكان يعلم أنه بحاجة إلى لعبة تُمارس داخل الصالات المغلقة، وتكون غير عنيفة أو خشنة للغاية، وتلائم المساحات المحاطة بجدران الصالة الرياضية.\n\nفكر جيمس في أفكار متعددة، واستبعد بعضها، حتى توصل أخيراً إلى حل عبقري. كتب مجموعة من القواعد الأساسية، ثم أحضر سلة كانت مخصصة لقطاف الخوخ وثبتها على ارتفاع 10 أقدام (حوالي 3 أمتار).\n\nكان على الطلاب محاولة رمي الكرة داخل السلة، واستخدموا في البداية كرة قدم عادية. وكلما دخلت الكرة في السلة، كسب الفريق نقطة. ولكن بما أن سلة الخوخ كانت مغلقة القاع، كان على شخص ما إخراج الكرة بعصا في كل مرة يُسجل فيها هدف!\n\nهكذا وُلدت رياضة كرة السلة. ومع مرور الوقت، أُضيفت قواعد جديدة، وتغيرت الكرة من كرة قدم إلى كرة بنية، ثم إلى كرة مطاطية برتقالية كما نعرفها اليوم، واستُبدلت السلة بشبكة مفتوحة، وأصبحت كرة السلة اليوم إحدى أشهر الرياضات حول العالم.",
+    "questions": [
+      {
+        "id": 1,
+        "questionEn": "Who was James Naismith?",
+        "questionAr": "من هو جيمس نايسميث؟",
+        "options": [
+          "A music teacher at a school in Massachusetts",
+          "A gym teacher at a school in Massachusetts",
+          "A professional basketball player",
+          "A school principal"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد نصاً في أول فقرة: 'He was a gym teacher at a school in Massachusetts.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 2,
+        "questionEn": "What problem was James Naismith trying to solve in December 1891?",
+        "questionAr": "ما هي المشكلة التي كان يحاول جيمس نايسميث إيجاد حل لها في ديسمبر 1891؟",
+        "options": [
+          "How to keep his students fit and active indoors during the long winter",
+          "How to fix the heating system in the gym",
+          "How to teach his students soccer rules",
+          "How to build a swimming pool"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص: 'He was trying to figure out how to keep his students fit during the long winter.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 3,
+        "questionEn": "What did James Naismith originally nail to a track ten feet high?",
+        "questionAr": "ما الشيء الذي ثبته جيمس نايسميث في البداية على ارتفاع 10 أقدام؟",
+        "options": [
+          "A wooden box",
+          "A metal hoop with a net",
+          "A basket meant to hold peaches",
+          "A bucket"
+        ],
+        "correctIndex": 2,
+        "explanation": "ورد في النص: 'Then, he took a basket meant to hold peaches. He nailed it to a track ten feet high.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 4,
+        "questionEn": "What ball was originally used when basketball was first played?",
+        "questionAr": "ما نوع الكرة التي استُخدمت في بداية اختراع اللعبة؟",
+        "options": [
+          "A soccer ball",
+          "A tennis ball",
+          "An orange rubber basketball",
+          "A baseball"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص: 'They used a soccer ball. When someone got the ball in a basket, they won a point...'",
+        "passageReference": "الفقرة الرابعة"
+      },
+      {
+        "id": 5,
+        "questionEn": "What is the main idea of this passage?",
+        "questionAr": "ما هي الفكرة الرئيسية لهذه القطعة؟",
+        "options": [
+          "Winter in Massachusetts is very cold",
+          "James Naismith invented an indoor game that evolved into modern basketball",
+          "Soccer balls are not good for throwing",
+          "Peach baskets are hard to climb"
+        ],
+        "correctIndex": 1,
+        "explanation": "الفكرة العامة هي قصة اختراع رياضة كرة السلة على يد جيمس نايسميث وتطورها إلى الرياضة العالمية الحالية.",
+        "passageReference": "الفكرة الشاملة للنص"
+      }
+    ]
+  },
+  {
+    "id": "puppy",
+    "titleEn": "Sarah and the Lost Puppy",
+    "titleAr": "سارة والجرو التائه",
+    "category": "Human Stories & Ethics",
+    "categoryAr": "قصص إنسانية وقيم",
+    "estimatedMinutes": 8,
+    "source": "ملزمة أسئلة الامتحان الوطني - أ. سماح الكعبي (صفحة 41-42)",
+    "englishText": "Sarah was walking home from school when she saw a small puppy wandering alone on the sidewalk. The puppy looked scared and confused, so Sarah approached it slowly, trying not to frighten it further. She knelt down and extended her hand, allowing the puppy to sniff it before gently petting its head.\n\nFeeling sorry for the lost puppy, Sarah decided to help. She looked around but didn't see any owner nearby. She gently picked up the puppy and carried it home. When she arrived, she gave it some water and food, and made a warm, cozy bed using an old blanket in a cardboard box.\n\nThe next morning, Sarah and her mother made 'Found Dog' posters and went door to door in the neighborhood. Soon, a frantic little girl and her mother recognized the puppy. The girl's face lit up with joy when she saw her puppy safe and sound. She thanked Sarah profusely and promised to keep a closer eye on her furry friend from now on.",
+    "arabicTranslation": "كانت سارة في طريق عودتها من المدرسة إلى المنزل عندما لمحت جرواً صغيراً يتجول وحيداً على الرصيف. بدا الجرو خائفاً وتائهاً، فاقتربت منه سارة بهدوء وحذر لتتجنب إخافته. ركعت على ركبتيها ومدت يدها بلطف لتسمح له بشمها قبل أن تمسح برفق على رأسه.\n\nشعرت سارة بالشفقة تجاه الجرو الضائع وقررت مساعدته؛ فنظرت حولها ولم ترَ أي أثر لصاحبه. حملت الجرو بحنان وأخذته معها إلى البيت. وهناك قدمت له الماء والطعام، وصنعت له سريراً دافئاً ومريحاً باستخدام بطانية قديمة داخل صندوق.\n\nفي صباح اليوم التالي، قامت سارة ووالدتها بطباعة ملصقات (عُثر على كلب) وتجولتا في الحي للسؤال عن صاحبه. وسرعان ما تعرفت فتاة صغيرة ووالدتها على الجرو بلهفة وفرح غامر؛ وشكرت الفتاة سارة بحرارة ووعدت بالاعتناء بكلبها وحمايته جيداً في المستقبل.",
+    "questions": [
+      {
+        "id": 1,
+        "questionEn": "What did Sarah see while walking home from school?",
+        "questionAr": "ماذا رأت سارة أثناء عودتها من المدرسة إلى البيت؟",
+        "options": [
+          "A small kitten",
+          "A lost puppy",
+          "A stray cat",
+          "A wounded bird"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد نصاً: 'Sarah was walking home from school when she saw a small puppy wandering alone on the sidewalk.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 2,
+        "questionEn": "How did Sarah approach the puppy?",
+        "questionAr": "كيف اقتربت سارة من الجرو الصغير؟",
+        "options": [
+          "Quickly and loudly",
+          "Slowly and gently, trying not to frighten it",
+          "Running and shouting",
+          "Ignoring it"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'Sarah approached it slowly, trying not to frighten it further.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 3,
+        "questionEn": "What did Sarah do after bringing the puppy home?",
+        "questionAr": "ماذا فعلت سارة بعد أن أخذت الجرو إلى المنزل؟",
+        "options": [
+          "Left it outside in the rain",
+          "Called the police immediately",
+          "Gave it food and water, and made a warm cozy bed for it",
+          "Sold it to a pet store"
+        ],
+        "correctIndex": 2,
+        "explanation": "ورد في النص: 'she gave it some water and food, and made a warm, cozy bed using an old blanket in a cardboard box.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 4,
+        "questionEn": "What did Sarah do the next morning to find the owner?",
+        "questionAr": "ماذا فعلت سارة في الصباح التالي للبحث عن صاحب الجرو؟",
+        "options": [
+          "Ignored the puppy",
+          "Took the puppy to school",
+          "Made posters and went door to door looking for the owner",
+          "Gave the puppy away"
+        ],
+        "correctIndex": 2,
+        "explanation": "ذكر النص: 'Sarah and her mother made \"Found Dog\" posters and went door to door in the neighborhood.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 5,
+        "questionEn": "How did the puppy's owner react when she saw her pet safe with Sarah?",
+        "questionAr": "كيف كانت ردة فعل صاحبة الجرو عندما رأته سالماً عند سارة؟",
+        "options": [
+          "She was angry",
+          "She was disappointed",
+          "Her face lit up with joy and she thanked Sarah profusely",
+          "She refused to take the puppy"
+        ],
+        "correctIndex": 2,
+        "explanation": "ذكر النص: 'The girl's face lit up with joy when she saw her puppy safe and sound. She thanked Sarah profusely.'",
+        "passageReference": "الفقرة الثالثة"
+      }
+    ]
+  },
+  {
+    "id": "bears",
+    "titleEn": "American Black Bears & Brown Bears",
+    "titleAr": "الدببة الأمريكية: السوداء والبنية",
+    "category": "Nature & Biology",
+    "categoryAr": "طبيعة وأحياء",
+    "estimatedMinutes": 15,
+    "source": "ملزمة أسئلة الامتحان الوطني - د. صفاء الكناني (صفحة 28-29)",
+    "englishText": "American Black Bears live in the U.S., Canada, and Mexico. An American Black Bear can be up to seven feet tall if it stands on its hind legs. A mother Black Bear can have 2-4 baby bears. They have the bears in winter. The baby bears are called cubs. During the winter, the cubs stay with their mother in the bear den. During the summer, the cubs like to go outside. They like to run and play. The cubs drink milk provided by their mother. The cubs eat nuts, berries, and insects. The cubs also love to eat honey. During the winter, the cubs sleep in the den with their mothers. They rest all winter. The cubs will leave their mother the next summer. They will move away to start their own family.\n\nBrown Bears live in the North. They live in Wyoming, Montana, Idaho, Washington, Alaska, Canada, and northern Eurasia. Brown Bears are very big. A Brown Bear can be up to ten feet tall if it stands on its hind legs. Like Black Bear cubs, Brown Bear cubs are born in winter. They drink milk until spring or summer. The mothers have 2-4 cubs. Brown Bear cubs stay with their mothers for 2-4 years. The adult females, called sows, teach them to hunt. They like to hunt at night. They like to hunt in large, open spaces. Brown Bears eat mostly fruits and vegetables, but they also hunt and eat other animals.",
+    "arabicTranslation": "تعيش الدببة الأمريكية السوداء في الولايات المتحدة الأمريكية، كندا، والمكسيك. ويمكن أن يصل طول الدب الأسود إلى 7 أقدام عند وقوفه على رجليه الخلفيتين. تنجب أنثى الدب الأسود ما بين 2 إلى 4 دياسم (صغار الدببة) خلال فصل الشتاء. وتُسمى صغار الدببة (cubs). خلال الشتاء، تبقى الدياسم مع أمها داخل الوكر (den). وفي الصيف، تحب الخروج والركض واللعب. ترضع الصغار الحليب من أمها، وتتغذى على المكسرات والتوت والحشرات، كما تعشق أكل العسل. وتنام الصغار في الوكر طوال الشتاء، ثم تفارق أمها في الصيف التالي لتبدأ حياتها المستقلة وتكوين عائلتها الخاصة.\n\nأما الدببة البنية فتعيش في الشمال، وتنتشر في وايومنغ، مونتانا، أيداهو، واشنطن، ألاسكا، كندا، وشمال أوراسيا. وهي دببة ضخمة للغاية؛ إذ يمكن أن يبلغ طول الدب البني 10 أقدام إذا وقف على رجليه الخلفيتين. وتولد صغارها شتاءً أيضاً وترضع الحليب حتى الربيع أو الصيف. تضع الأم من 2 إلى 4 دياسم، لكنها تبقى مع أمها لمدة تتراوح بين 2 إلى 4 سنوات. وتقوم الإناث البالغة (تُسمى sows) بتعليم الصغار الصيد ليلاً وفي المساحات المفتوحة الواسعة. تأكل الدببة البنية غالباً الفواكه والخضار، ولكنها تصطاد أيضاً حيوانات أخرى.",
+    "questions": [
+      {
+        "id": 1,
+        "questionEn": "When are bear cubs born?",
+        "questionAr": "متى تولد دياسم (صغار) الدببة؟",
+        "options": [
+          "Winter",
+          "Spring",
+          "Summer",
+          "Fall"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص بوضوح: 'They have the bears in winter. The baby bears are called cubs.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 2,
+        "questionEn": "What do black bears do during winter?",
+        "questionAr": "ماذا تفعل الدببة السوداء طوال فصل الشتاء؟",
+        "options": [
+          "They migrate south to Mexico",
+          "They sleep and rest in their dens with their mothers",
+          "They hunt in the open fields",
+          "They swim in cold rivers"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'During the winter, the cubs sleep in the den with their mothers. They rest all winter.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 3,
+        "questionEn": "How tall can an American Black Bear reach when standing on its hind legs?",
+        "questionAr": "كم قد يبلغ طول الدب الأسود الأمريكي عند وقوفه على رجليه الخلفيتين؟",
+        "options": [
+          "Up to five feet",
+          "Up to seven feet",
+          "Up to ten feet",
+          "Up to twelve feet"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'An American Black Bear can be up to seven feet tall if it stands on its hind legs.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 4,
+        "questionEn": "How tall can a Brown Bear be if it stands on its hind legs?",
+        "questionAr": "كم قد يصل طول الدب البني عند الوقوف على رجليه الخلفيتين؟",
+        "options": [
+          "Up to seven feet",
+          "Up to eight feet",
+          "Up to ten feet",
+          "Up to fourteen feet"
+        ],
+        "correctIndex": 2,
+        "explanation": "ورد في النص: 'A Brown Bear can be up to ten feet tall if it stands on its hind legs.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 5,
+        "questionEn": "How long do Brown Bear cubs stay with their mothers?",
+        "questionAr": "كم من الوقت تبقى دياسم الدببة البنية في رعاية أمهاتها؟",
+        "options": [
+          "Only one month",
+          "Until the next summer",
+          "For 2-4 years",
+          "For 10 years"
+        ],
+        "correctIndex": 2,
+        "explanation": "ذكر النص صراحة: 'Brown Bear cubs stay with their mothers for 2-4 years.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 6,
+        "questionEn": "What are adult female brown bears called?",
+        "questionAr": "ماذا تُسمى إناث الدببة البنية البالغة؟",
+        "options": [
+          "Cubs",
+          "Sows",
+          "Hens",
+          "Den mothers"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد نصاً: 'The adult females, called sows, teach them to hunt.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 7,
+        "questionEn": "When do brown bears prefer to hunt?",
+        "questionAr": "متى تفضل الدببة البنية الصيد؟",
+        "options": [
+          "At noon",
+          "At dawn only",
+          "At night",
+          "During winter storms"
+        ],
+        "correctIndex": 2,
+        "explanation": "ذكر النص: 'They like to hunt at night. They like to hunt in large, open spaces.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 8,
+        "questionEn": "Where do American Black Bears live?",
+        "questionAr": "أين تعيش الدببة الأمريكية السوداء؟",
+        "options": [
+          "Only in Alaska",
+          "In the U.S., Canada, and Mexico",
+          "In Eurasia only",
+          "In South America"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص في أول جملة: 'American Black Bears live in the U.S., Canada, and Mexico.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 9,
+        "questionEn": "What do black bear cubs love to eat in addition to nuts, berries, and insects?",
+        "questionAr": "ماذا تعشق دياسم الدب الأسود أكله إضافة إلى المكسرات والتوت والحشرات؟",
+        "options": [
+          "Honey",
+          "Grass only",
+          "Fish only",
+          "Leaves"
+        ],
+        "correctIndex": 0,
+        "explanation": "ورد نصاً: 'The cubs also love to eat honey.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 10,
+        "questionEn": "What is the primary diet of Brown Bears?",
+        "questionAr": "ما هو الغذاء الأساسي لمعظم الدببة البنية؟",
+        "options": [
+          "Strictly meat and salmon only",
+          "Mostly fruits and vegetables, but they also hunt and eat other animals",
+          "Insects only",
+          "Honey only"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'Brown Bears eat mostly fruits and vegetables, but they also hunt and eat other animals.'",
+        "passageReference": "الفقرة الثانية"
+      }
+    ]
+  },
+  {
+    "id": "coca_cola",
+    "titleEn": "The Invention of Coca-Cola (1886)",
+    "titleAr": "قصة اختراع كوكاكولا عام 1886",
+    "category": "History & Business",
+    "categoryAr": "تاريخ واقتصاد",
+    "estimatedMinutes": 14,
+    "source": "ملزمة أسئلة الامتحان الوطني - د. صفاء الكناني (صفحة 30-31)",
+    "englishText": "Coca-Cola was invented in 1886 by an Atlanta pharmacist named John Stith Pemberton. Pemberton had been experimenting with recipes to create a soothing medicinal syrup for headaches and fatigue. He cooked up a fragrant caramel-colored syrup in a brass kettle in his backyard and carried a jug of it down the street to Jacobs' Pharmacy, where it was mixed with carbonated water and sold for five cents a glass as a fountain drink.\n\nDr. Pemberton's bookkeeper, Frank M. Robinson, is credited with naming the beverage 'Coca-Cola' as well as designing the flowing script lettering that is still famous today. He thought that 'the two Cs would look well in advertising.' During the first year, sales averaged just nine servings a day in Atlanta. Sadly, Dr. Pemberton was in failing health and died in 1888, never realizing the global triumph his invention would achieve.\n\nBetween 1888 and 1891, an energetic Atlanta businessman named Asa G. Candler purchased the complete rights to the Coca-Cola formula. Candler recognized the immense commercial potential of the drink. Through brilliant advertising, free sampling coupons, and aggressive distribution, he transformed Coca-Cola from an Atlanta soda fountain novelty into one of the most recognized brands across the entire world.",
+    "arabicTranslation": "تم اختراع مشروب (كوكاكولا) عام 1886 على يد صيدلي من مدينة أتلانتا يُدعى (جون ستيث بيمبرتون). كان بيمبرتون يجري تجارب لابتكار شراب طبي مهدئ للصداع والإرهاق. وقام بطهي شراب عسلي بلون الكراميل في قدر نحاسي بحديقة منزله، ثم حمله في إبريق إلى صيدلية (جاكوبز) القريبة، حيث خُلط بالماء الفوار (المكربن) وبِيع بخمسة سنتات للكوب كمشروب منعش.\n\nيعود الفضل في إطلاق اسم 'Coca-Cola' إلى المحاسب المالي لبيمبرتون وهو (فرانك روبنسون)، الذي صمم أيضاً الخط الانسيابي الشهير المكتوب به الاسم حتى يومنا هذا، حيث رأى أن حرفي (C) سيبدوان متناسقين وجذابين في الإعلانات. وخلال العام الأول، كان متوسط المبيعات 9 أكواب فقط يومياً. ولسوء الحظ، تدهورت صحة الدكتور بيمبرتون وتوفي عام 1888 دون أن يرى النجاح العالمي الباهر لاختراعه.\n\nبين عامي 1888 و1891، قام رجل أعمال طموح من أتلانتا يُدعى (آسا كاندلر - Asa G. Candler) بشراء كامل حقوق وصفة كوكاكولا. أدرك كاندلر الإمكانات التجارية الضخمة للمشروب؛ ومن خلال حملات دعائية مبتكرة وتوزيع كوبونات مجانية للتذوق، حول كوكاكولا من مجرد مشروب صودا محلي في أتلانتا إلى إحدى أشهر العلامات التجارية انتشاراً في العالم أجمع.",
+    "questions": [
+      {
+        "id": 1,
+        "questionEn": "When and by whom was Coca-Cola invented?",
+        "questionAr": "متى وعلى يد من تم اختراع مشروب كوكاكولا؟",
+        "options": [
+          "In 1900 by Frank Robinson",
+          "In 1886 by John Stith Pemberton",
+          "In 1888 by Asa Candler",
+          "In 1920 by Jacobs"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'Coca-Cola was invented in 1886 by an Atlanta pharmacist named John Stith Pemberton.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 2,
+        "questionEn": "Where was the syrup first mixed with carbonated water and sold?",
+        "questionAr": "أين تم خلط الشراب بالماء الفوار وبيعه لأول مرة؟",
+        "options": [
+          "In a supermarket",
+          "At Jacobs' Pharmacy in Atlanta",
+          "In a restaurant in New York",
+          "At a train station"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد في النص: 'carried a jug of it down the street to Jacobs' Pharmacy, where it was mixed with carbonated water...'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 3,
+        "questionEn": "How much was a glass of Coca-Cola sold for initially?",
+        "questionAr": "بكم كان يُباع كوب كوكاكولا في البداية؟",
+        "options": [
+          "One cent",
+          "Five cents",
+          "Ten cents",
+          "One dollar"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'and sold for five cents a glass as a fountain drink.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 4,
+        "questionEn": "Who named the beverage 'Coca-Cola' and designed its flowing script logo?",
+        "questionAr": "من أطلق اسم كوكاكولا وصمم شعارها الخطي الانسيابي؟",
+        "options": [
+          "John Pemberton",
+          "Frank M. Robinson",
+          "Asa Candler",
+          "A customer at Jacobs' pharmacy"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكرت الفقرة الثانية: 'Dr. Pemberton's bookkeeper, Frank M. Robinson, is credited with naming the beverage \"Coca-Cola\" as well as designing the flowing script lettering...'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 5,
+        "questionEn": "Why did Frank Robinson suggest the name 'Coca-Cola'?",
+        "questionAr": "لماذا اقترح فرانك روبنسون اسم كوكاكولا تحديداً؟",
+        "options": [
+          "Because he loved the letter K",
+          "Because he thought the two Cs would look well in advertising",
+          "Because it was the name of his town",
+          "Because it sounded like medicine"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد نصاً: 'He thought that \"the two Cs would look well in advertising.\"'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 6,
+        "questionEn": "How many servings of Coca-Cola were sold per day on average during the first year?",
+        "questionAr": "كم كان متوسط عدد الأكواب المباعة يومياً في العام الأول؟",
+        "options": [
+          "Just 9 servings a day",
+          "About 100 servings a day",
+          "1,000 servings a day",
+          "None"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص: 'During the first year, sales averaged just nine servings a day in Atlanta.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 7,
+        "questionEn": "When did Dr. John Pemberton pass away?",
+        "questionAr": "متى توفي مخترع كوكاكولا الدكتور جون بيمبرتون؟",
+        "options": [
+          "1886",
+          "1888",
+          "1891",
+          "1905"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'Sadly, Dr. Pemberton was in failing health and died in 1888...'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 8,
+        "questionEn": "Who bought the rights to the formula and transformed Coca-Cola into a worldwide brand?",
+        "questionAr": "من اشترى حقوق تركيبة كوكاكولا وحولها إلى علامة تجارية عالمية كبرى؟",
+        "options": [
+          "Asa G. Candler",
+          "Frank Robinson",
+          "Thomas Edison",
+          "Henry Ford"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص: 'Between 1888 and 1891, an energetic Atlanta businessman named Asa G. Candler purchased the complete rights to the Coca-Cola formula.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 9,
+        "questionEn": "What marketing strategy did Asa Candler use to popularize the drink?",
+        "questionAr": "ما هي الاستراتيجية التسويقية التي استخدمها آسا كاندلر لنشر المشروب؟",
+        "options": [
+          "Free sampling coupons and aggressive advertising",
+          "Television commercials",
+          "Radio broadcasts exclusively",
+          "Government subsidies"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص: 'Through brilliant advertising, free sampling coupons, and aggressive distribution...'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 10,
+        "questionEn": "What original purpose was John Pemberton trying to achieve when inventing the syrup?",
+        "questionAr": "ما هو الغرض الأصلي الذي كان بيمبرتون يحاول تحقيقه عند ابتكار الشراب؟",
+        "options": [
+          "A soothing medicinal syrup for headaches and fatigue",
+          "A soft drink for kids",
+          "A fuel for engines",
+          "A baking ingredient"
+        ],
+        "correctIndex": 0,
+        "explanation": "ورد في النص: 'Pemberton had been experimenting with recipes to create a soothing medicinal syrup for headaches and fatigue.'",
+        "passageReference": "الفقرة الأولى"
+      }
+    ]
+  },
+  {
+    "id": "cacti",
+    "titleEn": "Cacti: Masters of Desert Survival",
+    "titleAr": "نباتات الصبار: أساتذة التكيف مع الصحراء",
+    "category": "Nature & Biology",
+    "categoryAr": "طبيعة وأحياء",
+    "estimatedMinutes": 12,
+    "source": "ملزمة أسئلة الامتحان الوطني - د. صفاء الكناني (صفحة 32-33)",
+    "englishText": "Cacti are remarkable plants that have adapted to live in some of the driest and hottest environments on Earth. Unlike typical plants with broad, flat green leaves, most cacti have evolved sharp needles or spines instead of leaves. These spines serve two vital purposes: they minimize water loss by having virtually no surface area for transpiration, and they protect the succulent plant from thirsty desert animals that would otherwise eat it for moisture.\n\nThe stem or trunk of a cactus is where magic happens. It is thick, fleshy, and covered with a heavy, waxy coating that locks precious moisture inside. When it rains—which may only occur once or twice a year in arid deserts—the cactus stem expands like an accordion to absorb and store massive quantities of water. A fully grown Saguaro cactus, for example, can absorb more than 750 liters of water during a single heavy rainfall!\n\nCacti also possess vast, shallow root systems that spread out just beneath the surface of the soil. This allows them to capture even the briefest drizzle or desert dew before the scorching sun evaporates it. Furthermore, many desert cacti bloom stunning, fragrant flowers at night to attract nocturnal pollinators like desert bats and moths, avoiding the lethal heat of the daytime sun.",
+    "arabicTranslation": "الصبار (Cacti) نباتات مذهلة تكيفت للعيش في أكثر بيئات الأرض حرارة وجفافاً. على عكس النباتات العادية ذات الأوراق الخضراء العريضة والمفلطحة، طورت معظم نباتات الصبار أشواكاً وإبراً حادة بدلاً من الأوراق العادية. وتؤدي هذه الأشواك وظيفتين حيويتين: تقليل فقدان الماء إلى أدنى حد لعدم وجود مساحة سطحية للنتح والتبخر، وحماية النبات العصاري الممتلئ بالرطوبة من حيوانات الصحراء العطشى.\n\nيمثل ساق الصبار المكان الذي تحدث فيه المعجزة الحقيقية؛ فهو ساق سميك ولحمي ومغطى بطبقة شمعية سميكة تحبس الرطوبة الثمينة بالداخل. وعند هطول الأمطار (وهو ما قد يحدث مرة أو مرتين في السنة بالصحراء)، يتمدد ساق الصبار كالأكورديون لامتصاص وتخزين كميات هائلة من الماء. فعلى سبيل المثال، يمكن لنبات صبار (الساغوارو - Saguaro) البالغ أن يمتص أكثر من 750 لتراً من الماء في عاصفة مطرية واحدة!\n\nتمتلك نباتات الصبار أيضاً شبكة جذور واسعة وسطحية تمتد أسفل سطح التربة مباشرة، مما يمكنها من التقاط أي رذاذ خفيف أو قطرات ندى قبل أن تبخرها شمس الصحراء الحارقة. علاوة على ذلك، تُزهر العديد من نباتات الصبار أزهاراً خلابة وعطرة أثناء الليل لتجذب الملقحات الليلية كالخفافيش وفراشات الليل تفادياً لحرارة النهار القاتلة.",
+    "questions": [
+      {
+        "id": 1,
+        "questionEn": "What have most cacti evolved instead of broad leaves?",
+        "questionAr": "ماذا طورت معظم نباتات الصبار بدلاً من الأوراق العريضة؟",
+        "options": [
+          "Sharp needles or spines",
+          "Deep flower petals",
+          "Wooden branches",
+          "Soft vines"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص: 'most cacti have evolved sharp needles or spines instead of leaves.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 2,
+        "questionEn": "What are the two vital purposes of cactus spines?",
+        "questionAr": "ما هما الغرضان الحيويان لأشواك الصبار؟",
+        "options": [
+          "To attract insects and produce honey",
+          "To minimize water loss and protect the plant from thirsty animals",
+          "To absorb sunlight directly and produce fruit",
+          "To anchor the plant in loose sand"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'These spines serve two vital purposes: they minimize water loss... and they protect the succulent plant from thirsty desert animals.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 3,
+        "questionEn": "How does the cactus stem prevent moisture from evaporating?",
+        "questionAr": "كيف يمنع ساق الصبار الرطوبة من التبخر؟",
+        "options": [
+          "It is covered with a heavy, waxy coating",
+          "It hides underground during daylight",
+          "It sheds its bark annually",
+          "It releases cold steam"
+        ],
+        "correctIndex": 0,
+        "explanation": "ورد نصاً: 'It is thick, fleshy, and covered with a heavy, waxy coating that locks precious moisture inside.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 4,
+        "questionEn": "How does the cactus stem behave when rainfall occurs?",
+        "questionAr": "كيف يتصرف ساق الصبار عندما تمطر؟",
+        "options": [
+          "It shrinks to prevent flooding",
+          "It expands like an accordion to absorb and store water",
+          "It drops all its needles",
+          "It changes color to white"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'the cactus stem expands like an accordion to absorb and store massive quantities of water.'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 5,
+        "questionEn": "How much water can a fully grown Saguaro cactus absorb during a heavy rainfall?",
+        "questionAr": "كمية الماء التي يمكن لصبار الساغوارو البالغ امتصاصها خلال عاصفة مطرية؟",
+        "options": [
+          "About 50 liters",
+          "More than 750 liters",
+          "Only 10 liters",
+          "Over 5,000 liters"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد صراحة: 'can absorb more than 750 liters of water during a single heavy rainfall!'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 6,
+        "questionEn": "Why are cactus root systems shallow and spread out just beneath the soil surface?",
+        "questionAr": "لماذا تمتاز جذور الصبار بأنها سطحية وممتدة أفقياً تحت سطح التربة مباشرة؟",
+        "options": [
+          "To capture even brief drizzles or dew before the sun evaporates them",
+          "Because rocks prevent roots from growing",
+          "To prevent other plants from growing nearby",
+          "To keep the plant cool"
+        ],
+        "correctIndex": 0,
+        "explanation": "ورد في النص: 'This allows them to capture even the briefest drizzle or desert dew before the scorching sun evaporates it.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 7,
+        "questionEn": "Why do many desert cacti bloom flowers at night rather than during the day?",
+        "questionAr": "لماذا تفتح العديد من نباتات الصبار أزهارها ليلاً بدلاً من النهار؟",
+        "options": [
+          "To attract nocturnal pollinators like bats and moths while avoiding daytime heat",
+          "Because they need moonlight for photosynthesis",
+          "Because their flowers cannot endure light",
+          "To scare nocturnal predators"
+        ],
+        "correctIndex": 0,
+        "explanation": "ورد في النص: 'bloom stunning, fragrant flowers at night to attract nocturnal pollinators like desert bats and moths, avoiding the lethal heat of the daytime sun.'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 8,
+        "questionEn": "Which nocturnal animals act as pollinators for desert cacti flowers?",
+        "questionAr": "ما هي الحيوانات الليلية التي تقوم بتلقيح أزهار الصبار الصحراوي؟",
+        "options": [
+          "Desert bats and moths",
+          "Eagles and crows",
+          "Lizards and snakes",
+          "Foxes and rabbits"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص: 'attract nocturnal pollinators like desert bats and moths...'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 9,
+        "questionEn": "What is the primary adaptation of cacti to survive in extreme environments?",
+        "questionAr": "ما هو التكيف الأساسي للصبار للبقاء في البيئات القاسية؟",
+        "options": [
+          "Water storage, spine protection, waxy skin, and shallow widespread roots",
+          "Growing broad leaves to capture humidity",
+          "Producing heavy timber for shade",
+          "Freezing during winter"
+        ],
+        "correctIndex": 0,
+        "explanation": "النص يستعرض تكيفات الصبار المتعددة: تحول الأوراق لأشواك، الساق الشمعي الممتص للماء، والجذور السطحية.",
+        "passageReference": "الفكرة الشاملة للنص"
+      },
+      {
+        "id": 10,
+        "questionEn": "What would desert animals do to cacti if the plants did not possess sharp spines?",
+        "questionAr": "ماذا كانت ستفعل حيوانات الصحراء بالصبار لو لم يكن يملك أشواكاً حادة؟",
+        "options": [
+          "They would eat the succulent plant for its precious moisture",
+          "They would build nests in it",
+          "They would ignore it completely",
+          "They would poison it"
+        ],
+        "correctIndex": 0,
+        "explanation": "ذكر النص: 'protect the succulent plant from thirsty desert animals that would otherwise eat it for moisture.'",
+        "passageReference": "الفقرة الأولى"
+      }
+    ]
+  },
+  {
+    "id": "chinese_university",
+    "titleEn": "The Psychology Seminar at Chinese University",
+    "titleAr": "مؤتمر علم النفس وفهم العقلية في الجامعة الصينية",
+    "category": "Psychology & Culture",
+    "categoryAr": "علم نفس وثقافة",
+    "estimatedMinutes": 15,
+    "source": "ملزمة أسئلة الامتحان الوطني - د. صفاء الكناني (صفحة 34-38)",
+    "englishText": "Not even a three-day brainstorming session among top psychologists at the Chinese University could unravel one of the world's greatest puzzles – how the Chinese mind ticks. Michael Bond had reason to pace the pavement of the Chinese University campus. The psychologist who coordinated and moderated a three-day seminar in Chinese psychology, and most of the participants, came a long way to knock heads together.\n\n'If a bomb hits this building,' muttered Bond, half-seriously, 'it would wipe out the whole discipline.' The only thing that went off in the Cho Yiu Conference Hall was the picking of brains, the pouring out of ideas, and a refrain from an ongoing mantra: 'more work needs to be done' and 'we still don't know.'\n\nEach of the 36 participants was allowed 30 minutes plus use of an overhead projector to condense years of research into data and theories. Their content spilled over from 20 areas of Chinese behavior, including reading, learning styles, personality, and modernization.\n\nIn such a specialized field, how can non-Chinese academics do research without possessing fluency in Chinese? Those who cannot read, write, or speak the language usually team up with Chinese colleagues. Dr. William Gabrenya of the Florida Institute of Technology noted that non-Chinese researchers must foster close partnerships with local scholars to ensure cultural context and linguistic nuances are deeply respected.",
+    "arabicTranslation": "حتى جلسة العصف الذهني التي استمرت ثلاثة أيام بين كبار علماء النفس في الجامعة الصينية لم تستطع فك أحد أعظم ألغاز العالم: كيف يفكر العقل الصيني. كان لدى مايكل بوند سبب وجيه للتردد والتفكير العميق في حرم الجامعة الصينية؛ إذ نسق وأدار ندوة امتدت لثلاثة أيام في علم النفس الصيني، وقد قطع معظم المشاركين مسافات طويلة لتبادل الآراء والنقاش المكثف.\n\nقال بوند مازحاً بنصف جدية: 'لو سقطت قنبلة على هذا المبنى، لمسحت هذا التخصص بالكامل عن الوجود'. لكن ما انطلق في قاعة مؤتمرات (تشو يو) كان استنفاراً للعقول وطرحاً للأفكار وترديداً لشعار متكرر: 'ما زال هناك الكثير من العمل لإنجازه' و'ما زلنا لا نعرف بعد'.\n\nمُنح كل من المشاركين الـ 36 مدة 30 دقيقة مع استخدام جهاز العرض لتلخيص سنوات من الأبحاث في بيانات ونظريات شملت 20 مجالاً من مجالات السلوك الصيني، من بينها أساليب القراءة والتعلم، الشخصية، والتحديث والمعاصرة.\n\nوفي مثل هذا المجال الدقيق، كيف يمكن للباحثين الأكاديميين غير الصينيين إجراء أبحاث دون إتقان تام للغة الصينية؟ إن الذين لا يتحدثون اللغة عادة ما يتعاونون مع زملاء صينيين. وأشار الدكتور ويليام غابرينيا من معهد فلوريدا للتكنولوجيا إلى ضرورة تعزيز ودعم (foster) الشراكات الوثيقة مع الباحثين المحليين لضمان احترام السياقات الثقافية واللغوية بدقة.",
+    "questions": [
+      {
+        "id": 1,
+        "questionEn": "What was the main purpose of the three-day seminar at the Chinese University?",
+        "questionAr": "ما هو الهدف الرئيسي من الندوة التي استمرت ثلاثة أيام في الجامعة الصينية؟",
+        "options": [
+          "To celebrate a sports victory",
+          "To explore and unravel how the Chinese mind and psychology tick",
+          "To teach English literature",
+          "To construct a new university hall"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص في مستهله: 'could unravel one of the world's greatest puzzles – how the Chinese mind ticks.'",
+        "passageReference": "الفقرة الأولى"
+      },
+      {
+        "id": 2,
+        "questionEn": "What did Michael Bond mean by saying 'If a bomb hits this building, it would wipe out the whole discipline'?",
+        "questionAr": "ماذا قصد مايكل بوند بقوله 'لو سقطت قنبلة على المبنى لمسحت هذا التخصص بالكامل'؟",
+        "options": [
+          "The building was in actual military danger",
+          "The number of leading scholars specializing in Chinese psychology is small and concentrated",
+          "He disliked the participants",
+          "The building was poorly constructed"
+        ],
+        "correctIndex": 1,
+        "explanation": "أراد بوند الإشارة إلى أن نخبة المتخصصين في هذا المجال الدقيق في العالم كلهم متواجدون معاً في تلك القاعة.",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 3,
+        "questionEn": "How many participants attended the seminar presentations?",
+        "questionAr": "كم عدد الباحثين المشاركين في عروض الندوة؟",
+        "options": [
+          "10 participants",
+          "36 participants",
+          "100 participants",
+          "20 participants"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد نصاً: 'Each of the 36 participants was allowed 30 minutes plus use of an overhead projector...'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 4,
+        "questionEn": "How long was each participant allowed to present their research?",
+        "questionAr": "كم كان الوقت المخصص لكل باحث لعرض أبحاثه؟",
+        "options": [
+          "10 minutes",
+          "30 minutes",
+          "One hour",
+          "Two hours"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'Each of the 36 participants was allowed 30 minutes...'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 5,
+        "questionEn": "What ongoing phrase was repeated often throughout the conference?",
+        "questionAr": "ما هي العبارة التي كانت تتردد مراراً خلال المؤتمر؟",
+        "options": [
+          "'We have discovered everything'",
+          "'More work needs to be done' and 'we still don't know'",
+          "'Chinese psychology is fully understood'",
+          "'No further research is necessary'"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'a refrain from an ongoing mantra: \"more work needs to be done\" and \"we still don't know.\"'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 6,
+        "questionEn": "In the text, the word 'foster' is closest in meaning to:",
+        "questionAr": "ما المعنى الأقرب لكلمة 'foster' الواردة في سياق النص؟",
+        "options": [
+          "Promote and support",
+          "Destroy",
+          "Recreate",
+          "Ignore"
+        ],
+        "correctIndex": 0,
+        "explanation": "كلمة foster تعني تعزيز، دعم، وتنمية العلاقات والشراكات (promote / support / nurture).",
+        "passageReference": "الفقرة الرابعة"
+      },
+      {
+        "id": 7,
+        "questionEn": "How do non-Chinese academics usually conduct research without fluency in Chinese?",
+        "questionAr": "كيف يجري الباحثون غير الصينيين أبحاثهم عادة دون إتقان تام للغة الصينية؟",
+        "options": [
+          "They rely solely on machine translation",
+          "They team up and partner with Chinese colleagues",
+          "They only interview children",
+          "They do not publish any papers"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد في النص: 'Those who cannot read, write, or speak the language usually team up with Chinese colleagues.'",
+        "passageReference": "الفقرة الرابعة"
+      },
+      {
+        "id": 8,
+        "questionEn": "Where was the seminar held?",
+        "questionAr": "أين أُقيمت هذه الندوة العلمية؟",
+        "options": [
+          "At Harvard University",
+          "In the Cho Yiu Conference Hall at Chinese University",
+          "In London",
+          "In Florida Institute of Technology"
+        ],
+        "correctIndex": 1,
+        "explanation": "ذكر النص: 'in the Cho Yiu Conference Hall of Chinese University...'",
+        "passageReference": "الفقرة الثانية"
+      },
+      {
+        "id": 9,
+        "questionEn": "How many areas of Chinese behavior were covered during the conference?",
+        "questionAr": "كم مجتمعة ومجالاً من مجالات السلوك غطتها أبحاث المؤتمر؟",
+        "options": [
+          "5 areas",
+          "20 areas",
+          "50 areas",
+          "100 areas"
+        ],
+        "correctIndex": 1,
+        "explanation": "ورد في النص: 'Their content spilled over from 20 areas of Chinese behavior...'",
+        "passageReference": "الفقرة الثالثة"
+      },
+      {
+        "id": 10,
+        "questionEn": "The general outcome of the conference can best be described as:",
+        "questionAr": "أفضل وصف لنتائج المؤتمر هو أنها:",
+        "options": [
+          "Definitive and concluding all debates",
+          "A stimulating exchange proving that much research is still needed",
+          "A total failure with zero ideas",
+          "Solely focused on military tactics"
+        ],
+        "correctIndex": 1,
+        "explanation": "خلص المؤتمر إلى تحفيز النقاش وتبادل الأفكار مع التأكيد على الحاجة لمزيد من البحث المتواصل في المستقبل.",
+        "passageReference": "الفكرة الشاملة للنص"
+      }
+    ]
+  }
+]
